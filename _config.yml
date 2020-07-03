@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adrien Gaidon's website"
 title_separator          : "-"
 name                     : &name "Adrien Gaidon"
-description              : &description
+description              : &description "Adrien Gaidon's website. Machine Learning Research. Autonomous Driving."
 url                      : https://daien.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daien/daien.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "adnothing"
 facebook:
   username               :
   app_id                 :
@@ -85,7 +85,7 @@ author:
   bio              : "Head of Machine Learning Research at Toyota Research Institute (TRI). Scaling up ML for Robot Autonomy. Self-supervised."
   location         : "Mountain View, CA, USA"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
