@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adrien Gaidon's personal website"
+title                    : "Adrien Gaidon's website"
 title_separator          : "-"
 name                     : &name "Adrien Gaidon"
-description              : &description "Head of Machine Learning Research at TRI"
+description              : &description
 url                      : https://daien.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daien/daien.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Adrien Gaidon"
   avatar           : "profile.png"
-  bio              : "Senior Manager, Machine Learning Research. Scaling up ML for robot autonomy. Self-supervised."
+  bio              : "Head of Machine Learning Research at Toyota Research Institute (TRI). Scaling up ML for Robot Autonomy. Self-supervised."
   location         : "Mountain View, CA, USA"
-  employer         : "Toyota Research Institute"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en"
   email            :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/adrien-gaidon-63ab2358/"
-  orcid            : "https://orcid.org/0000-0001-8820-550X"
+  linkedin         : "adrien-gaidon-63ab2358/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
