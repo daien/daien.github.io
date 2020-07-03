@@ -13,7 +13,7 @@ redirect_from:
 
 ### 01/2020 - : Senior Manager, Machine Learning Research, Toyota Research Institute (TRI), CA, USA
 
-Head of Machine Learning Research at TRI. We explore how to learn from Experience for world-scale Autonomy. We invent an deploy new Machine Learning algorithms for Automated Driving that improve mobility and save lives. Our key research areas include Deep Learning (esp. self-supervised learning), Computer Vision (esp. dynamic 3D scene understanding), and using Simulation for ML (esp. inverse graphics and sim2real).
+Head of Machine Learning Research at TRI. We explore how to learn from Experience for world-scale Autonomy. We invent and deploy new Machine Learning algorithms for Automated Driving that improve mobility and save lives. Our key research areas include Deep Learning (esp. self-supervised learning), Computer Vision (esp. dynamic 3D scene understanding), and using Simulation for ML (esp. inverse graphics and sim2real).
 
 ### 07/2017 - 01/2020: Tech Lead and Manager (Machine Learning), Toyota Research Institute (TRI), CA, USA
 
@@ -21,12 +21,11 @@ Manager of the ML team at TRI. Responsible for creating and leading TRI's ML str
 
 ### 2017 - 2020: Senior Research Scientist (Machine Learning), Toyota Research Institute (TRI), CA, USA
 
-Large scale Computer Vision and Deep Learning R\&D for Automated Driving. Leading multiple projects, including novel research (scene understanding, object perception, 3D vision, domain adaptation, sim2real, self- and semi-supervised learning), distributed ML cloud infrastructure (deployed in production), and transfer to prototype vehicles tested on public roads. Leading scientific collaborations with Stanford and Preferred Networks (PFN). Technical advisor for Toyota AI Ventures.
+Large scale Computer Vision and Deep Learning R&D for Automated Driving. Leading multiple projects, including novel research (scene understanding, object perception, 3D vision, domain adaptation, sim2real, self- and semi-supervised learning), distributed ML cloud infrastructure (deployed in production), and transfer to prototype vehicles tested on public roads. Leading scientific collaborations with Stanford and Preferred Networks (PFN). Technical advisor for Toyota AI Ventures.
 
 ### 2013 - 2016: Research Scientist (Computer Vision), Xerox Research Center Europe, Meylan, France
 
-Led projects on Deep Learning for video understanding, simulation for perception,
-combining Computer Vision and Business Process Modeling. Transferred Computer Vision and ML algorithms to production.
+Led research and transfer projects on Deep Learning for video understanding (action recognition, multi-object tracking), domain adaptation, simulation for perception, and Business Process Modeling with Computer Vision.
 
 ### 2008 - 2012: Doctoral Researcher, Microsoft Research - Inria joint center, Paris, France
 
@@ -39,12 +38,13 @@ and robust models.
 ### 2008: R&D Engineer, LEAR team, Inria, Grenoble, France
 
 Participation to two international Computer Vision competitions: TRECVID and
-PASCAL VOC. Experimentation on tens of thousands of images and videos, using a
+PASCAL VOC (co-winner of classification and detection challenges).
+Experimentation on tens of thousands of images and videos, using a
 cluster of computers, under strong time constraints.
 
 ### 06-08/2007: Research intern, Inria Rocquencourt, Paris, France
 
-Structure learning of dynamic Bayesian networks using
+Research on learning the structure of dynamic Bayesian networks using
 statistical tests and genetic algorithms.
 
 ### 06-08/2006: Research intern, LIG research lab, IMAG institute, Grenoble, France
