@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Professional Experience
-===
+## Professional Experience
 
 ### 01/2020 - : Senior Manager, Machine Learning Research, Toyota Research Institute (TRI), CA, USA
 
@@ -37,7 +36,7 @@ challenging real-world video sources like movies or YouTube videos.
 Contributions on how to decompose actions into structured, discriminative,
 and robust models.
 
-### 2008: R\&D Engineer, LEAR team, Inria, Grenoble, France
+### 2008: R&D Engineer, LEAR team, Inria, Grenoble, France
 
 Participation to two international Computer Vision competitions: TRECVID and
 PASCAL VOC. Experimentation on tens of thousands of images and videos, using a
@@ -53,8 +52,7 @@ statistical tests and genetic algorithms.
 Implementation (OCaml) of formal methods in the automatic proof research domain.
 
 
-Education
-===
+## Education
 
 - 2008 - 2012: PhD in Computer Science, Microsoft Research - INRIA, Paris \& LEAR Team, INRIA Grenoble, under the supervision of Cordelia Schmid and Zaid Harchaoui, in the fields of Computer Vision and Machine Learning. Title: Structured Models for Action Recognition in Real-world Videos.
 - 2007 - 2008: MSc in Artificial Intelligence, Institut Polytechnique (INP), Grenoble, France.
@@ -63,8 +61,7 @@ Education
 - 2003, European Scientific Baccalaureate with distinction, equivalent to "A" levels, Lycee Jeanne d'Arc, Clermont-Ferrand.
 
 
-Awards
-===
+## Awards
 
 - [COCO-Mapillary Competition Runner-Up at ECCV 2018](http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html)
 - Outstanding reviewer award at CVPR 2018
@@ -74,8 +71,8 @@ Awards
 - Microsoft Research - Inria PhD scholarship grant, 2008 - 2012
 2008, Co-winner of the PASCAL VOC 2008 challenge on object classification and detection
 
-Press Coverage and Interviews
-====
+
+## Press Coverage and Interviews
 
 - This Week in ML \& AI (TWiMLAI) podcast: ["Advancing Autonomous Vehicle Development Using Distributed Deep Learning"](https://twimlai.com/twiml-talk-269-advancing-autonomous-vehicle-development-using-distributed-deep-learning-with-adrien-gaidon/), 2019
 - [SF DL Summit interview on ML at Toyota](https://www.youtube.com/watch?v=jBIYRoAQJuo), 2019
@@ -88,8 +85,7 @@ Press Coverage and Interviews
 - El Espanol: ["Máquinas más listas gracias a los videojuegos"](http://goo.gl/EIfRao), 2016
 
 
-Communication Skills
-===
+## Communication Skills
 
 With Humans:
 - French (native)
@@ -107,8 +103,8 @@ With Researchers:
 supervised learning, self-supervised learning, domain adaptation,
 multi-task learning, optimization, kernel methods, time series analysis
 
-Scientific Activities
-==============
+
+## Scientific Activities
 
 - 40+ publications ($1,600+$ citations, cf. below and [Google Scholar profile](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), 12 patents published (7 granted, cf. [Google Patents](https://patents.google.com/?inventor=Adrien+Gaidon&num=25)).
 - Co-organizer of the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
@@ -119,14 +115,14 @@ Scientific Activities
 - Service: reviewer for the major machine learning, computer vision, and robotics conferences and journals (CVPR, ICLR, ICRA, RSS, NeurIPS, ICML, ICCV, ECCV, BMVC, IJCV, PAMI, TCSVT, ...).
 
 
-Publications
----
+### Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
----
+### Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
