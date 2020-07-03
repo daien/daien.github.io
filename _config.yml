@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adrien Gaidon"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Senior Manager, Machine Learning Research. Scaling up ML for robot autonomy: Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning."
   location         : "Mountain View, CA, USA"
   employer         : "Toyota Research Institute
