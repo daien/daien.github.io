@@ -1,13 +1,11 @@
 ---
 title: "It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction"
-collection: publications
-permalink: /publication/2020-08-23-ECCV-Endpoint-Conditioned-Trajectory-Prediction
-excerpt: "In this work, we present Predicted Endpoint Conditioned Network (PECNet) for flexible human trajectory prediction. PECNet infers distant trajectory endpoints to assist in long-range multi-modal trajectory prediction."
-date: 2020-08-23
-venue: 'ECCV'
-paperurl: 'https://arxiv.org/abs/2004.02025'
-citation: 'It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction, K. Mangalam, H. Girase, S. Agarwal, K-H. Lee, E. Adeli, J. Malik, A. Gaidon, ECCV 2020 (oral, top 2%)'
+permalink: /portfolio/2020-08-23-ECCV-Endpoint-Conditioned-Trajectory-Prediction
+excerpt: "In this work, we present Predicted Endpoint Conditioned Network (PECNet) for flexible human trajectory prediction. PECNet infers distant trajectory endpoints to assist in long-range multi-modal trajectory prediction.<br/><img src='/images/pecnet-fig1.png'>"
+collection: portfolio
 ---
+
+Accepted to [ECCV 2020](https://eccv2020.eu/) as **oral** (top 2% out of 5500 submissions).
 
 Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttikeya.github.io/publication/htf/)
 
@@ -18,7 +16,7 @@ Human trajectory forecasting with multiple socially interacting agents is of cri
 ![PECNet Figure 1](/images/pecnet-fig1.png)
 ![PECNet Figure 2](/images/pecnet-fig2.png)
 
-### Bibtex
+### Reference
 
 ```
 @inproceedings{mangalam2020journey,
@@ -28,3 +26,4 @@ Human trajectory forecasting with multiple socially interacting agents is of cri
     year={2020},
 }
 ```
+
