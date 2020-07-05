@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adrien Gaidon"
-  avatar           : "profile.png"
+  avatar           : "adrien-gaidon.png"
   bio              : "Head of Machine Learning Research at Toyota Research Institute (TRI). Scaling up ML for Robot Autonomy. Self-supervised."
   location         : "Mountain View, CA, USA"
   employer         :
