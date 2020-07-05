@@ -11,11 +11,10 @@ header:
 
 Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttikeya.github.io/publication/htf/)
 
-**Bibtex**:
-
     @inproceedings{mangalam2020journey,
         title={It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction},
-        author={Karttikeya Mangalam and Harshayu Girase and Shreyas Agarwal and Kuan-Hui Lee and Ehsan Adeli and Jitendra Malik and Adrien Gaidon},
+        author={Karttikeya Mangalam and Harshayu Girase and Shreyas Agarwal and
+            Kuan-Hui Lee and Ehsan Adeli and Jitendra Malik and Adrien Gaidon},
         booktitle={ECCV}
         year={2020},
     }

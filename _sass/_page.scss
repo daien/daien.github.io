@@ -101,9 +101,10 @@
   }
 
   /* blockquote citations */
-  blockquote + .small {
-    margin-top: -1.5em;
-    padding-left: 1.25rem;
+  blockquote {
+    margin-top: -1em;
+    padding-left: 1rem;
+    font-size: $type-size-8;
   }
 }
 

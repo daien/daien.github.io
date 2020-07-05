@@ -8,6 +8,8 @@ redirect_from:
 modified: 2020-07-05
 ---
 
+(Last updated: July 2020)
+
 {% include base_path %}
 
 ## Professional Experience
