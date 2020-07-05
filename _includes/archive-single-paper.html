@@ -26,7 +26,7 @@
       - {{ post.paperauthors }}
       - <i>{{ post.venue }}</i>
       {% if post.award %}<b style="color:red"> ({{ post.award }})</b>{% endif %}
-      , {{ post.date | date: "%B %d, %Y" }}
+      - {{ post.date | date: "%B %d, %Y" }}
     </h3>
 
     <div class="paper" style="margin-bottom:10px;margin-top:10px">
