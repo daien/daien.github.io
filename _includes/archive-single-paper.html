@@ -24,7 +24,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
       - {{ post.paperauthors }}
-      - <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}
+      - <i>{{ post.venue }}</i>, {{ post.date }}
     </h3>
 
     <div class="paper" style="margin-bottom:10px;margin-top:10px">

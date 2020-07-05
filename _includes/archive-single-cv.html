@@ -34,9 +34,9 @@
       {% endif %}
     </div>
     <div class="archive__item-excerpt" itemprop="description">
-      {% if post.paperauthors %} - {{ post.paperauthors }}{% endif %}
-      {% if post.venue %} - {{ post.venue }}{% endif %}
-      {% if post.date %} - {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
+      {% if post.paperauthors %} {{ post.paperauthors }}{% endif %}
+      {% if post.venue %} - <i>{{ post.venue }}</i>{% endif %}
+      {% if post.date %} - {{ post.date }}{% endif %}
     </div>
     </p>
     </li>
