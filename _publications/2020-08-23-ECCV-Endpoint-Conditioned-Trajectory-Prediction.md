@@ -6,7 +6,7 @@ excerpt: "In this work, we present Predicted Endpoint Conditioned Network (PECNe
 date: 2020-08-23
 paperauthors: 'K. Mangalam, H. Girase, S. Agarwal, K-H. Lee, E. Adeli, J. Malik, A. Gaidon'
 header:
-  teaser: "pecnet-fig1.png"
+  image: "pecnet-fig1.png"
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttikeya.github.io/publication/htf/)
