@@ -10,5 +10,5 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-paper.html %}
 {% endfor %}
