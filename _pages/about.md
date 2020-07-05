@@ -12,7 +12,7 @@ I lead the Machine Learning Research team at the [Toyota Research Institute (TRI
 
 News
 ----
-- July 2020: 5 papers accepted at [IROS 2020](https://www.iros2020.org/) and 2 papers (1 **oral**) accepted at [ECCV 2020](https://eccv2020.eu/)
+- summer 2020: 2 papers (1 **oral**) accepted at [ECCV 2020](https://eccv2020.eu/), 5 papers at [IROS 2020](https://www.iros2020.org/), and 1 at [ITSC](https://www.ieee-itsc2020.org/)
 - April 2020: 4 papers (**3 orals!**) accepted at [CVPR 2020](http://cvpr2020.thecvf.com/) and 1 paper accepted at [RSS 2020](https://roboticsconference.org/program/papers/39/)
 - February 2020: 1 paper accepted at [RA-L](https://www.ieee-ras.org/publications/ra-l)/[ICRA 2020](https://www.icra2020.org/)
 - January 2020: I got promoted to Senior Manager! So grateful to my team and excited for our next steps together!
