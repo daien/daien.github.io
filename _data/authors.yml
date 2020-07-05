@@ -1,10 +1,10 @@
 # Authors
 
-Adrien Gaidon Name:
+Adrien Gaidon:
   name        : "Adrien Gaidon"
   uri         : "https://wwww.adriengaidon.com"
-  email       : "you.guess@hoolimail.com"
+  email       :
   bio         : "Head of Machine Learning Research at TRI."
-  avatar      : "profile.png"
+  avatar      : "/images/profile.png"
   twitter     : "adnothing"
-  google_plus :
+  googlescholar : "https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en"

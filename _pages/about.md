@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+classes: wide
 ---
 
 I lead the Machine Learning Research team at the [Toyota Research Institute (TRI)](https://www.tri.global/) in Los Altos, CA, USA. My research focuses on scaling up ML for robot autonomy, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning. Outside of work, I am (mostly) spending time with my wife, daughter, and, when possible, the mountains (I love camping, climbing, and snowboarding).

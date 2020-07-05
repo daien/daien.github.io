@@ -7,6 +7,7 @@ date: 2020-08-23
 venue: 'ECCV'
 paperurl: 'https://arxiv.org/abs/2004.02025'
 citation: 'It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction, K. Mangalam, H. Girase, S. Agarwal, K-H. Lee, E. Adeli, J. Malik, A. Gaidon, ECCV 2020 (oral, top 2%)'
+teaser: "images/pecnet-fig1.png"
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttikeya.github.io/publication/htf/)
