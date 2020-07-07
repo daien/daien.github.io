@@ -15,7 +15,7 @@ News
 - July 2020: we are organizing the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020) and [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
 - July 2020: 2 papers (1 **oral**) accepted at [ECCV 2020](https://eccv2020.eu/), 5 papers at [IROS 2020](https://www.iros2020.org/), and 1 at [ITSC](https://www.ieee-itsc2020.org/)
 - June 2020: Together with colleagues from PFN and TRI-AD, we have released our [survey on Differentiable Rendering](/publication/2020-06-22-arxiv-Differentiable-Rendering-Survey). Let us know what you think!
-- April 2020: 4 papers (**3 orals!**) accepted at [CVPR 2020](http://cvpr2020.thecvf.com/) and 1 paper accepted at [RSS 2020](https://roboticsconference.org/program/papers/39/)
+- April 2020: 4 papers (**3 orals!**) accepted at [CVPR 2020](http://cvpr2020.thecvf.com/) and 1 paper accepted at [RSS 2020](/publication/2020-07-15-Reinforcement-Learning-based-Control-of-Imitative-Policies-for-Near-Accident-Driving)
 - February 2020: 1 paper accepted at [RA-L](https://www.ieee-ras.org/publications/ra-l)/[ICRA 2020](https://www.icra2020.org/)
 - January 2020: I got promoted to Senior Manager! So grateful to my team and excited for our next steps together!
 - December 2019: 1 paper accepted at [ICLR 2020](https://iclr.cc/virtual/poster_ByxT7TNFvH.html) and 1 (**oral**) at [WACV 2020](http://wacv20.wacv.net/)
