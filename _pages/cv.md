@@ -10,6 +10,8 @@ modified: 2020-07-05
 
 (Last updated: July 2020)
 
+You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
+
 {% include base_path %}
 
 ## Professional Experience

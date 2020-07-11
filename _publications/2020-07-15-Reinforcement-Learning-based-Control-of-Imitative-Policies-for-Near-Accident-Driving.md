@@ -5,6 +5,7 @@ permalink: /publication/2020-07-15-Reinforcement-Learning-based-Control-of-Imita
 excerpt: "We propose a hierarchical reinforcement and imitation learning (H-ReIL) approach for learning to drive in near-accident scenarios."
 date: 2020-07-15
 venue: "RSS 2020"
+venuetype: "conference"
 paperauthors: 'Z. Cao, E. Biyik, W. Z. Wang, A. Raventos, A. Gaidon, G. Rosman, D. Sadigh'
 header:
   image: "rss2020-h-reil-1.jpg"
