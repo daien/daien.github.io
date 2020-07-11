@@ -13,8 +13,7 @@ header:
 
 Links: [project page](https://stip.stanford.edu/), [STIP dataset](https://stip.stanford.edu/dataset.html), [arxiv](https://arxiv.org/abs/2002.08945)
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/GnRzgQxKqSA" frameborder="0"> </iframe>
-
+{% include youtube_embed.html id="GnRzgQxKqSA" %}
 
     @inproceeding{liu2020spatiotemporal,
        title={Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction},
