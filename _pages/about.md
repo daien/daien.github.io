@@ -13,7 +13,7 @@ I lead the Machine Learning Research team at the [Toyota Research Institute (TRI
 News
 ----
 - July 2020: we are organizing the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020) and [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
-- July 2020: 2 papers (1 **oral**) accepted at [ECCV 2020](https://eccv2020.eu/), 5 papers at [IROS 2020](https://www.iros2020.org/), and 1 at [ITSC](https://www.ieee-itsc2020.org/)
+- July 2020: 2 papers (**[1 oral](/publication/2020-08-23-Endpoint-Conditioned-Trajectory-Prediction)**, [1 poster](/publication/2020-08-23-Self-Supervised-Differentiable-Rendering)) accepted at [ECCV 2020](https://eccv2020.eu/), 5 papers at [IROS 2020](https://www.iros2020.org/), and 1 at [ITSC](https://www.ieee-itsc2020.org/)
 - June 2020: Together with colleagues from PFN and TRI-AD, we have released our [survey on Differentiable Rendering](/publication/2020-06-22-arxiv-Differentiable-Rendering-Survey). Let us know what you think!
 - April 2020: 4 papers (**3 orals!**) accepted at [CVPR 2020](http://cvpr2020.thecvf.com/) and 1 paper accepted at [RSS 2020](/publication/2020-07-15-Reinforcement-Learning-based-Control-of-Imitative-Policies-for-Near-Accident-Driving)
 - February 2020: 1 paper accepted at [RA-L](https://www.ieee-ras.org/publications/ra-l)/[ICRA 2020](https://www.icra2020.org/)
