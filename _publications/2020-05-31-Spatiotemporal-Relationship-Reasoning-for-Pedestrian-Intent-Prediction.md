@@ -3,7 +3,7 @@ title: "Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction"
 collection: publications
 permalink: /publication/2020-05-31-Spatiotemporal-Relationship-Reasoning-for-Pedestrian-Intent-Prediction
 excerpt: "We propose a graph convolutional model operating on scene graphs to predict pedestrian crossing intent and introduce the STIP dataset."
-date: 2020-07-15
+date: 2020-05-31
 venue: "RA-L & ICRA 2020"
 venuetype: "journal"
 paperauthors: 'B. Liu, E. Adeli, Z. Cao, KH Lee, A. Shenoi, A. Gaidon, JC Niebles'
@@ -14,6 +14,7 @@ header:
 Links: [project page](https://stip.stanford.edu/), [STIP dataset](https://stip.stanford.edu/dataset.html), [arxiv](https://arxiv.org/abs/2002.08945)
 
 {% include youtube_embed.html id="GnRzgQxKqSA" %}
+
 
     @inproceeding{liu2020spatiotemporal,
        title={Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction},
