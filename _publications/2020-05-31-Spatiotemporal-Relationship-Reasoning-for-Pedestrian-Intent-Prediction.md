@@ -13,12 +13,16 @@ header:
 
 Links: [project page](https://stip.stanford.edu/), [STIP dataset](https://stip.stanford.edu/dataset.html), [arxiv](https://arxiv.org/abs/2002.08945)
 
+<iframe width="480" height="360" src="http://www.youtube.com/embed/GnRzgQxKqSA" frameborder="0"> </iframe>
+
+
     @inproceeding{liu2020spatiotemporal,
        title={Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction},
        author={Bingbin Liu and Ehsan Adeli and Zhangjie Cao and Kuan-Hui Lee and Abhijeet Shenoi
-        and Adrien Gaidon and Juan Carlos Niebles},
+           and Adrien Gaidon and Juan Carlos Niebles},
        year={2020},
-       booktitle={IEEE Robotics and Automation Letters (IEEE RA-L) and International Conference on Robotics and Automation (ICRA)},
+       booktitle={IEEE Robotics and Automation Letters (IEEE RA-L) and
+            International Conference on Robotics and Automation (ICRA)},
        publisher={IEEE}
     }
 
