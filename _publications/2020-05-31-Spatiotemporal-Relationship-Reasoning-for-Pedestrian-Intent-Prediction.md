@@ -2,7 +2,7 @@
 title: "Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction"
 collection: publications
 permalink: /publication/2020-05-31-Spatiotemporal-Relationship-Reasoning-for-Pedestrian-Intent-Prediction
-excerpt: "We propose a hierarchical reinforcement and imitation learning (H-ReIL) approach for learning to drive in near-accident scenarios."
+excerpt: "We propose a graph convolutional model operating on scene graphs to predict pedestrian crossing intent and introduce the STIP dataset."
 date: 2020-07-15
 venue: "RA-L & ICRA 2020"
 venuetype: "journal"
@@ -12,8 +12,6 @@ header:
 ---
 
 Links: [project page](https://stip.stanford.edu/), [STIP dataset](https://stip.stanford.edu/dataset.html), [arxiv](https://arxiv.org/abs/2002.08945)
-
-{% include video id="GnRzgQxKqSA" provider="youtube" %}
 
     @inproceeding{liu2020spatiotemporal,
        title={Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction},
