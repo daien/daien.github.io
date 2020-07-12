@@ -28,23 +28,19 @@
         {% endif %}
         alt="{{ title }}"/>
 
-      <div class="archive__item-title" itemprop="headline">
-        {% if post.link %}
-          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        {% else %}
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-        {% endif %}
-        - {{ post.paperauthors }}
-        - <i>{{ post.venue }}</i>
-        {% if post.award %}<b style="color:red"> ({{ post.award }})</b>{% endif %}
-        - {{ post.date | date: "%B %d, %Y" }}.
-      </div>
-
-      {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-      {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <b>
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      </b>
+      - <i>{{ post.paperauthors }}</i>
+      - <b>{{ post.venue }}</b>
+      {% if post.award %}<b style="color:red"> ({{ post.award }})</b>{% endif %}
+      - {{ post.date | date: "%B %d, %Y" }}.
+
+      {{ post.excerpt | markdownify }}
 
     </div>
 
