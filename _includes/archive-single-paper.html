@@ -1,6 +1,8 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
+{% if post.thumbnail %}
+  {% capture teaser %}{{ post.thumbnail }}{% endcapture %}
+{% elsif post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% elsif post.header.image %}
   {% capture teaser %}{{ post.header.image }}{% endcapture %}
@@ -36,7 +38,7 @@
         {% else %}
           "{{ teaser | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
-        alt="" width="120" height="120" align="left" style="margin-left:0px;margin-right:20px; border:1px solid #ddd" />
+        alt="" align="left" style="max-width:120px;max-height:120px;width:auto;height:auto;margin-left:0px;margin-right:20px; border:1px solid #ddd" />
 
       {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>

@@ -9,7 +9,8 @@ venuetype: "conference"
 award: "oral, top 5.7%"
 paperauthors: 'V. Guizilini, R. Ambrus, S. Pillai, A. Raventos, A. Gaidon'
 header:
-  image: "CVPR2020-packnet-ddad.gif"
+  image: "1905.02693.jpg"
+thumbnail: "CVPR2020-packnet-ddad.gif"
 tags:
    - CVPR2020
    - monocular depth estimation
