@@ -12,7 +12,7 @@ thumbnail: "icra2020-stip-teaser.gif"
 
 Links: [project page](https://stip.stanford.edu/), [STIP dataset](https://stip.stanford.edu/dataset.html), [arxiv](https://arxiv.org/abs/2002.08945), [video](#video), [bibtex](#bibtex)
 
-{% include youtube_embed.html id="GnRzgQxKqSA" %}
+![ICRA 2020 Pedestrian Intent Prediction teaser](/images/icra2020-stip-teaser.gif)
 
 ### Abtract
 
@@ -20,7 +20,7 @@ Reasoning over visual data is a desirable capability for robotics and vision-bas
 
 ### Video
 
-![ICRA 2020 Pedestrian Intent Prediction teaser](/images/icra2020-stip-teaser.gif)
+{% include youtube_embed.html id="GnRzgQxKqSA" %}
 
 ### Bibtex
 
