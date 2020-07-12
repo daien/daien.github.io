@@ -34,8 +34,10 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
+        {% if page.paperauthors %}<p><i>{{ page.paperauthors }}</i></p>{% endif %}
+
         {% if page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>
+          <p>Published in <b>{{ page.venue }}</b>
           {% if page.award %}<b style="color:red"> ({{ page.award }})</b>{% endif %}
           - {{ page.date | default: "1900-01-01" | date: "%B %Y" }} </p>
         {% elsif page.date %}
