@@ -12,11 +12,14 @@ I lead the Machine Learning Research team at the [Toyota Research Institute (TRI
 
 News
 ----
-- July 2020: we are organizing the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020) and [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
-- July 2020: 2 papers (**[1 oral](/publication/2020-08-23-Endpoint-Conditioned-Trajectory-Prediction)**, [1 poster](/publication/2020-08-23-Self-Supervised-Differentiable-Rendering)) accepted at [ECCV 2020](https://eccv2020.eu/), 5 papers at [IROS 2020](https://www.iros2020.org/), and 1 at [ITSC](https://www.ieee-itsc2020.org/)
-- June 2020: Together with colleagues from PFN and TRI-AD, we have released our [survey on Differentiable Rendering](/publication/2020-06-22-arxiv-Differentiable-Rendering-Survey). Let us know what you think!
-- April 2020: 4 papers (**3 orals!**) accepted at [CVPR 2020](http://cvpr2020.thecvf.com/) and 1 paper accepted at [RSS 2020](/publication/2020-07-15-Reinforcement-Learning-based-Control-of-Imitative-Policies-for-Near-Accident-Driving)
-- February 2020: 1 paper accepted at [RA-L](https://www.ieee-ras.org/publications/ra-l)/[ICRA 2020](https://www.icra2020.org/)
+- August 2020: we are organizing the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
+- July 2020: we are organizing the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020)
+- July 2020: 2 papers (**[1 oral on trajectory prediction](/publication/2020-08-23-Endpoint-Conditioned-Trajectory-Prediction)**, [1 poster on differentiable rendering](/publication/2020-08-23-Self-Supervised-Differentiable-Rendering)) accepted at [ECCV 2020](https://eccv2020.eu/)
+- July 2020: 5 papers accepted at [IROS 2020](https://www.iros2020.org/), and 1 at [ITSC](https://www.ieee-itsc2020.org/)
+- July 2020: [1 paper with Stanford on hierarchical RL and imitation in near-accidents](/publication/2020-07-15-Reinforcement-Learning-based-Control-of-Imitative-Policies-for-Near-Accident-Driving) accepted at [RSS 2020](https://roboticsconference.org/)
+- June 2020: Together with colleagues from PFN and TRI-AD, we have released a [survey on Differentiable Rendering](/publication/2020-06-22-arxiv-Differentiable-Rendering-Survey).
+- June 2020: 4 papers (**3 orals!**) accepted at [CVPR 2020](http://cvpr2020.thecvf.com/) ([PackNet pseudo-lidar](/publication/2020-06-16-3D-Packing-for-Self-Supervised-Monocular-Depth-Estimation), [real-time panoptic segmentation](/publication/2020-06-16-Real-Time-Panoptic-Segmentation-from-Dense-Detections), [auto-labeling](/publication/2020-06-16-Autolabeling-3D-Objects-with-Differentiable-Rendering), [spatio-temporal graph distillation](/publication/2020-06-16-Spatio-Temporal-Graph-for-Video-Captioning)). See also our new [DDAD dataset](https://github.com/TRI-ML/DDAD) for depth estimation!
+- February 2020: [1 paper with Stanford on Pedestrian Intent Prediction](/publication/2020-05-31-Spatiotemporal-Relationship-Reasoning-for-Pedestrian-Intent-Prediction) accepted at [RA-L](https://www.ieee-ras.org/publications/ra-l)/[ICRA 2020](https://www.icra2020.org/). See also our new [STIP dataset](https://stip.stanford.edu/dataset.html)!
 - January 2020: I got promoted to Senior Manager! So grateful to my team and excited for our next steps together!
 - December 2019: 1 paper accepted at [ICLR 2020](https://iclr.cc/virtual/poster_ByxT7TNFvH.html) and 1 (**oral**) at [WACV 2020](http://wacv20.wacv.net/)
 - October 2019: 1 paper accepted at the [International Journal of Computer Vision (IJCV)](https://link.springer.com/article/10.1007/s11263-019-01222-z)
