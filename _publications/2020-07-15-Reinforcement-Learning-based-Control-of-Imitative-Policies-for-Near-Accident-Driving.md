@@ -11,7 +11,10 @@ header:
   image: "rss2020-h-reil-1.jpg"
 ---
 
-Links: [RSS 2020 page](https://roboticsconference.org/program/papers/39/), [RSS 2020 spotlight talk](https://youtu.be/6iEi4PDLQ8w), [arxiv](https://arxiv.org/abs/2007.00178), [supplementary video](https://youtu.be/CY24zlC_HdI)
+Links: [RSS 2020 page](https://roboticsconference.org/program/papers/39/), [RSS 2020 spotlight talk (below)](https://youtu.be/6iEi4PDLQ8w), [arxiv](https://arxiv.org/abs/2007.00178), [supplementary video](https://youtu.be/CY24zlC_HdI)
+
+{% include youtube_embed.html id="6iEi4PDLQ8w" %}
+
 
     @inproceedings{Cao_2020,
         title={Reinforcement Learning based Control of Imitative Policies

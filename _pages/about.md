@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I lead the Machine Learning Research team at the [Toyota Research Institute (TRI)](https://www.tri.global/) in Los Altos, CA, USA. My research focuses on scaling up ML for Robot Autonomy, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning. Outside of work, I spend time with my wife, daughter, and the mountains (I love camping, climbing, and snowboarding). You can find my [publications](/publications/), [talks](/talks/), [blog posts](/year-archive/), and [CV](/cv/) on this site. Enjoy!
+I lead the Machine Learning Research team at the [Toyota Research Institute (TRI)](https://www.tri.global/) in Los Altos, CA, USA. My research focuses on scaling up ML for Robot Autonomy, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning (cf. [a short bio](#bio) below). Outside of work, I spend time with my wife, daughter, and the mountains (I love camping, climbing, and snowboarding). You can find my [publications](/publications/), [talks](/talks/), [blog posts](/year-archive/), and [CV](/cv/) on this site. Enjoy!
 
-News
-----
+## News
+
 - August 2020: we are organizing the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
 - July 2020: we are organizing the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020)
 - July 2020: 2 papers (**[1 oral on trajectory prediction](/publication/2020-08-23-Endpoint-Conditioned-Trajectory-Prediction)**, [1 poster on differentiable rendering](/publication/2020-08-23-Self-Supervised-Differentiable-Rendering)) accepted at [ECCV 2020](https://eccv2020.eu/)
@@ -28,6 +28,6 @@ News
 - May 2019: I did an interview with the wonderful Sam Charrington for the [TWIML AI podcast](https://twimlai.com/twiml-talk-269-advancing-autonomous-vehicle-development-using-distributed-deep-learning-with-adrien-gaidon/)!
 
 
-Bio
-----
+## Bio
+
 Adrien Gaidon is the Head of Machine Learning Research at the [Toyota Research Institute (TRI)](https://www.tri.global/) in Los Altos, CA, USA. Adrien's research focuses on scaling up ML for robot autonomy, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning. He received his PhD from [Microsoft Research - Inria](https://www.msr-inria.fr/) Paris in 2012, has over 40 publications and patents in ML/CV/AI (cf. [Google Scholar](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), top entries in international Computer Vision competitions, multiple best reviewer awards, international press coverage for his work on Deep Learning with simulation, was a guest editor for the International Journal of Computer Vision, and co-organized multiple workshops on Autonomous Driving at CVPR/ECCV/ICML. You can find him at [adriengaidon.com](https://www.adriengaidon.com), on [linkedin](https://www.linkedin.com/in/adrien-gaidon-63ab2358/), and Twitter [@adnothing](https://twitter.com/adnothing).
