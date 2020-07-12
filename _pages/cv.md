@@ -114,11 +114,15 @@ multi-task learning, optimization, kernel methods, time series analysis
 
 ### Publications
 
+NB: this is currently not up to date.
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ### Talks
+
+NB: this is currently not up to date.
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}

@@ -163,7 +163,7 @@
 
 .page__hero-image {
   width: 100%;
-  height: auto;
+  max-height: 200px;
   -ms-interpolation-mode: bicubic;
 }
 
