@@ -21,7 +21,7 @@ tags:
 
 Links: [arxiv](https://arxiv.org/abs/1912.01202), [code](https://github.com/TRI-ML/realtime_panoptic), [video](#video), [bibtex](#bibtex)
 
-![CVPR 2020 real-time panoptic segmentation teaser](/images/CVPR2020-sdflabel-teaser.gif)
+![CVPR 2020 real-time panoptic segmentation teaser](/images/CVPR2020-panoptic-teaser.gif)
 
 ### Abtract
 
