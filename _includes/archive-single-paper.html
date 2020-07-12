@@ -31,14 +31,14 @@
       - {{ post.date | date: "%B %d, %Y" }}
     </h3>
 
-    <div class="paper" style="margin-bottom:10px;margin-top:10px">
-      <img src=
+    <div class="archive__item-paper">
+      <img class="archive__item-thumbnail" src=
         {% if teaser contains "://" %}
           "{{ teaser }}"
         {% else %}
           "{{ teaser | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
-        alt="" align="left" style="max-width:120px;max-height:120px;width:auto;height:auto;margin-left:0px;margin-right:20px; border:1px solid #ddd" />
+        alt="{{ title }}"/>
 
       {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>

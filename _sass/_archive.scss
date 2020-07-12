@@ -82,6 +82,22 @@
   .archive__item-title {
     text-decoration: underline;
   }
+
+  .archive__item-paper {
+    margin-bottom:10px;
+    margin-top:10px;
+  }
+
+  .archive__item-thumbnail {
+    float: left;
+    margin: 0px 15px 15px 0px;
+    max-width:120px;
+    max-height:120px;
+    width:auto;
+    height:auto;
+    border:1px solid #ddd;
+  }
+
 }
 
 
