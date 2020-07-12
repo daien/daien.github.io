@@ -16,7 +16,7 @@ Links: [RSS 2020 page](https://roboticsconference.org/program/papers/39/), [RSS 
 {% include youtube_embed.html id="6iEi4PDLQ8w" %}
 
 
-    @inproceedings{Cao_2020,
+    @inproceedings{cao2020reinforcement,
         title={Reinforcement Learning based Control of Imitative Policies
             for Near-Accident Driving},
         author={Cao, Zhangjie and Biyik, Erdem and Wang, Woodrow and Raventos, Allan and
