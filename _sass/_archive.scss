@@ -201,12 +201,9 @@
   &--left {
     @include full();
     font-size: 1.25rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 0em;
     }
 
     @include breakpoint($small) {
