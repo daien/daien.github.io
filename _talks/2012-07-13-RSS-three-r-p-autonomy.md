@@ -10,4 +10,4 @@ location: "virtual, California"
 
 Overview of recent ML Research at TRI across the full robotics stack: perception, prediction, and planning.
 
-{% include youtube_embed.html id="IPa-cxcdT8U&t=19442s" %}
+{% include youtube_embed.html id="IPa-cxcdT8U" start="19442" %}
