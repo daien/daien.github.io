@@ -6,7 +6,7 @@ excerpt: "This paper reviews existing literature and discusses the current state
 date: 2020-06-22
 venue: arXiv
 paperauthors: 'H. Kato, D. Beker, M. Morariu, T. Ando, T. Matsuoka, W. Kehl, A. Gaidon'
-thumbnail: "differentiable-rendering-survey.png"
+thumbnail: "differentiable-rendering-survey-thumb.jpg"
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2006.12057), [bibtex](#bibtex)

@@ -8,7 +8,7 @@ venue: "ECCV 2020"
 venuetype: "conference"
 award: "oral, top 2%"
 paperauthors: 'K. Mangalam, H. Girase, S. Agarwal, K-H. Lee, E. Adeli, J. Malik, A. Gaidon'
-thumbnail: "pecnet-fig1.jpg"
+thumbnail: "pecnet-thumb.jpg"
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttikeya.github.io/publication/htf/), [bibtex](#bibtex)
