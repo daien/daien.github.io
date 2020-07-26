@@ -39,7 +39,9 @@
       - <b>{{ post.venue }}</b>
       {% if post.award %}<b style="color:red"> ({{ post.award }})</b>{% endif %}
       - {{ post.date | date: "%B %d, %Y" }}.
-      {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
+      <span class="archive__item-excerpt">
+        {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
+      </span>
 
     </div>
 
