@@ -7,7 +7,7 @@ date: 2020-07-15
 venue: "RSS 2020"
 venuetype: "conference"
 paperauthors: 'Z. Cao, E. Biyik, W. Z. Wang, A. Raventos, A. Gaidon, G. Rosman, D. Sadigh'
-thumbnail: "rss2020-h-reil-1.jpg"
+thumbnail: "rss2020-h-reil-thumbnail.jpg"
 ---
 
 Links: [RSS 2020 page](https://roboticsconference.org/program/papers/39/), [video](#video), [arxiv](https://arxiv.org/abs/2007.00178), [bibtex](#bibtex)
