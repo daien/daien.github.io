@@ -208,7 +208,7 @@
 
     @include breakpoint($small) {
       .archive__item-teaser {
-        @include span(5 of 12);
+        @include span(10 of 12);
       }
 
       .archive__item-body {
