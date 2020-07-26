@@ -201,6 +201,9 @@
   &--left {
     @include full();
     font-size: 1.25rem;
+    display: flex;
+    /*	flex-direction: column;*/
+    align-items: center;
 
     .archive__item-teaser {
       margin-bottom: 2em;
@@ -208,7 +211,7 @@
 
     @include breakpoint($small) {
       .archive__item-teaser {
-        @include span(10 of 12);
+        @include span(5 of 12);
       }
 
       .archive__item-body {
