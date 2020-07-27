@@ -10,7 +10,7 @@ paperauthors: 'B. Liu, E. Adeli, Z. Cao, KH Lee, A. Shenoi, A. Gaidon, JC Nieble
 thumbnail: "icra2020-stip-teaser.gif"
 ---
 
-Links: [project page](https://stip.stanford.edu/), [STIP dataset](https://stip.stanford.edu/dataset.html), [arxiv](https://arxiv.org/abs/2002.08945), [video](#video), [bibtex](#bibtex)
+Links: [project page](https://stip.stanford.edu/), [STIP dataset](https://stip.stanford.edu/dataset.html), [arxiv](https://arxiv.org/abs/2002.08945), [video](#video), [talk at ICRA](#talk), [bibtex](#bibtex)
 
 ![ICRA 2020 Pedestrian Intent Prediction teaser](/images/icra2020-stip-teaser.gif)
 
@@ -21,6 +21,12 @@ Reasoning over visual data is a desirable capability for robotics and vision-bas
 ### Video
 
 {% include youtube_embed.html id="GnRzgQxKqSA" %}
+
+## Talk
+
+Invited talk at the [ICRA 2020 Long-term Human Motion Prediction workshop](https://www.youtube.com/watch?v=GClnvAt0F2k).
+
+{% include youtube_embed.html id="GClnvAt0F2k" %}
 
 ### Bibtex
 
