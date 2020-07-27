@@ -11,6 +11,7 @@ title                    : "Adrien Gaidon's website"
 title_separator          : "-"
 name                     : &name "Adrien Gaidon"
 description              : &description "Adrien Gaidon's website. Machine Learning Research. Autonomous Driving."
+# recommended to uncomment below for custom domain: https://github.community/t/css-not-being-applied-in-pages/10466/9
 #url                      : https://www.adriengaidon.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daien/daien.github.io"
