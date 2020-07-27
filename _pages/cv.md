@@ -114,7 +114,7 @@ multi-task learning, optimization, kernel methods, time series analysis
 
 ### Publications
 
-NB: this is currently not up to date.
+NB: this is not up to date yet. See my [CV as pdf](/files/CV_Adrien_Gaidon.pdf) or the [Publications](/publications) page.
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -122,8 +122,4 @@ NB: this is currently not up to date.
 
 ### Talks
 
-NB: this is currently not up to date.
-
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+See my [CV as pdf](/files/CV_Adrien_Gaidon.pdf) or the [Talks](/talks) page.
