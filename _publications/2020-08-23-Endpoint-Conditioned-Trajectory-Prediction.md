@@ -11,7 +11,7 @@ paperauthors: 'K. Mangalam, H. Girase, S. Agarwal, K-H. Lee, E. Adeli, J. Malik,
 thumbnail: "pecnet-thumb.jpg"
 ---
 
-Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttikeya.github.io/publication/htf/), [bibtex](#bibtex)
+Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttikeya.github.io/publication/htf/), [code](https://github.com/HarshayuGirase/PECNet), [bibtex](#bibtex)
 
 ![ECCV 2020 PECNet overview](/images/pecnet-fig1.jpg)
 
