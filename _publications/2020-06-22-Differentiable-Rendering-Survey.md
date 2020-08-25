@@ -23,11 +23,10 @@ Deep neural networks (DNNs) have shown remarkable performance improvements on vi
 
 ### Bibtex
 
-    @misc{kato2020differentiable,
+    @article{kato2020differentiable,
         title={Differentiable Rendering: A Survey},
         author={Hiroharu Kato and Deniz Beker and Mihai Morariu and Takahiro Ando
             and Toru Matsuoka and Wadim Kehl and Adrien Gaidon},
         year={2020},
-        eprint={2006.12057},
-        archivePrefix={arXiv},
+        journal={arXiv preprint arXiv:2006.12057},
     }
