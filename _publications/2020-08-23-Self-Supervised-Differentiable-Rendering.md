@@ -21,7 +21,7 @@ Links: [ECCV 2020 page](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3
 ### Bibtex
 
     @inproceedings{beker2020self,
-        title={Self-Supervised Differentiable Rendering for Monocular 3D Object Detection},
+        title={Monocular Differentiable Rendering for Self-Supervised 3D Object Detection},
         author={Deniz Beker and Hiroharu Kato and Mihai Adrian Morariu and Takahiro Ando and Toru Matsuoka and Wadim Kehl and Adrien Gaidon},
         booktitle={ECCV},
         year={2020},
