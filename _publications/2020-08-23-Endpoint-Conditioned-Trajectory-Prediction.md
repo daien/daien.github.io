@@ -11,7 +11,7 @@ paperauthors: 'K. Mangalam, H. Girase, S. Agarwal, K-H. Lee, E. Adeli, J. Malik,
 thumbnail: "pecnet-thumb.jpg"
 ---
 
-Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttikeya.github.io/publication/htf/), [code](https://github.com/HarshayuGirase/PECNet), [bibtex](#bibtex)
+Links: [arxiv](https://arxiv.org/abs/2004.02025), [video](#video), [project page](https://karttikeya.github.io/publication/htf/), [code](https://github.com/HarshayuGirase/PECNet), [bibtex](#bibtex)
 
 ![ECCV 2020 PECNet overview](/images/pecnet-fig1.jpg)
 
@@ -20,6 +20,14 @@ Links: [arxiv](https://arxiv.org/abs/2004.02025), [project page](https://karttik
 Human trajectory forecasting with multiple socially interacting agents is of critical importance for autonomous navigation in human environments, e.g., for self-driving cars and social robots. In this work, we present Predicted Endpoint Conditioned Network (PECNet) for flexible human trajectory prediction. PECNet infers distant trajectory endpoints to assist in long-range multi-modal trajectory prediction. A novel non-local social pooling layer enables PECNet to infer diverse yet socially compliant trajectories. Additionally, we present a simple "truncation-trick" for improving few-shot multi-modal trajectory prediction performance. We show that PECNet improves state-of-the-art performance on the Stanford Drone trajectory prediction benchmark by ~19.5% and on the ETH/UCY benchmark by ~40.8%.
 
 ![PECNet architecture](/images/pecnet-fig2.jpg)
+
+### Video
+
+{% include youtube_embed.html id="cJt1lo3s08o" %}
+
+A shorter summary version is also available:
+
+{% include youtube_embed.html id="XCWCHwGlBgE" %}
 
 ### Bibtex
 
