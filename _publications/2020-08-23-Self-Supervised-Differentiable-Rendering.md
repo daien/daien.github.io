@@ -1,5 +1,5 @@
 ---
-title: "Self-Supervised Differentiable Rendering for Monocular 3D Object Detection"
+title: "Monocular Differentiable Rendering for Self-Supervised 3D Object Detection"
 collection: publications
 permalink: /publication/2020-08-23-Self-Supervised-Differentiable-Rendering
 excerpt: "Novel self-supervised method for textured 3D shape reconstruction and pose estimation of rigid objects with the help of strong shape priors and 2D instance masks."
@@ -10,7 +10,7 @@ paperauthors: 'D. Beker, H. Kato, MA. Morariu, T. Ando, T. Matsuoka, W. Kehl, A.
 thumbnail: "self-supervised-dr-eccv-fig-1.jpg"
 ---
 
-Links: arxiv (coming soon), [bibtex](#bibtex)
+Links: [ECCV 2020 page](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3794_ECCV_2020_paper.php), [ECCV 2020 pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660511.pdf), [openreview](https://openreview.net/forum?id=bKuIk86iZS), arxiv (coming soon), [bibtex](#bibtex)
 
 ![Self-supervised Differentiable Rendering overview](/images/self-supervised-dr-eccv-fig-1.jpg)
 
