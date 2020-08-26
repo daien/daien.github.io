@@ -22,8 +22,8 @@ icra2020:
     url: "https://www.youtube.com/watch?v=GClnvAt0F2k"
 wayve2020:
   - image_path: Wayve-2020-Adrien-talk.jpg
-    alt: "Scaling Up for Autonomy - Talk at Wayve, April 2020"
-    title: "Scaling Up for Autonomy, April 2020"
+    alt: "Scaling Up ML for Autonomy - Talk at Wayve, April 2020"
+    title: "Scaling Up ML for Autonomy, April 2020"
     excerpt: 'Talk given at <a href="https://wayve.ai/">Wayve</a> on going beyond supervised learning for autonomy. Overview of our recent ICCV and CVPR orals on imitation and perception.'
     btn_label: "Presentation (pdf)"
     btn_class: "btn--primary"
