@@ -28,8 +28,17 @@ wayve2020:
     btn_label: "Presentation (pdf)"
     btn_class: "btn--primary"
     url: "/files/Scaling-Up-ML-for-Autonomy-TRI-ML-Research-Wayve-April-2020.pdf"
+stanford2019:
+  - image_path: Stanford-2019-Self-Supervised-Pseudo-Lidar-Adrien-Gaidon-talk.jpg
+    alt: "Stanford seminar - 2019 - Self-supervised Pseudo-Lidar Networks"
+    title: "Self-supervised Pseudo-Lidar Networks - Stanford - 2019"
+    excerpt: 'Presentation at Stanford of our work on self-supervised monocular depth estimation (monodepth, a.k.a. pseudo-lidar)'
+    btn_label: "YouTube"
+    btn_class: "btn--primary"
+    url: "https://www.youtube.com/watch?v=SLEK2vAgjOI"
 ---
 
 {% include feature_row id="rss2020" type="left" %}
 {% include feature_row id="icra2020" type="left" %}
 {% include feature_row id="wayve2020" type="left" %}
+{% include feature_row id="stanford2019" type="left" %}
