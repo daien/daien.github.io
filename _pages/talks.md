@@ -44,6 +44,14 @@ rework2019:
     btn_label: "YouTube"
     btn_class: "btn--primary"
     url: "https://www.youtube.com/watch?v=jBIYRoAQJuo"
+uva2019:
+  - image_path: uva-2019-beyond-supervised-driving.jpg
+    alt: "Beyond Supervised Driving talk at QUVA, the joint lab between Qualcomm and the University of Amsterdam"
+    title: "Beyond Supervised Driving, University of Amsterdam, Jan. 2019"
+    excerpt: 'Invited talk on our self-supervised learning research, QUVA (joint lab between Qualcomm and the University of Amsterdam)'
+    btn_label: "YouTube"
+    btn_class: "btn--primary"
+    url: "https://www.youtube.com/watch?v=nQn9hwST7Pk"
 awsreinvent2018:
   - image_path: aws-reinvent-2018-TRI-DL-infra-talk.jpg
     alt: "AWS re:Invent 2018: Advancing Autonomous Vehicle Development Using Distributed Deep Learning at TRI"
@@ -52,6 +60,14 @@ awsreinvent2018:
     btn_label: "YouTube"
     btn_class: "btn--primary"
     url: "https://www.youtube.com/watch?v=B1w5R0jLMGA"
+dojo2018:
+  - image_path: hacker-dojo-2018-Autonomous-Vehicles-Lecture.jpg
+    alt: "Hacker Dojo Lecture on Autonomous Vehicles - November 2018"
+    title: "Hacker Dojo Lecture on Autonomous Vehicles, Bay Area, Nov. 2018"
+    excerpt: 'An introduction to autonomous vehicles I gave at Hacker Dojo.'
+    btn_label: "YouTube"
+    btn_class: "btn--primary"
+    url: "https://youtu.be/yq09er8YWZM?t=3359"
 ---
 
 {% include feature_row id="rss2020" type="left" %}
@@ -59,4 +75,5 @@ awsreinvent2018:
 {% include feature_row id="wayve2020" type="left" %}
 {% include feature_row id="stanford2019" type="left" %}
 {% include feature_row id="rework2019" type="left" %}
+{% include feature_row id="uva2019" type="left" %}
 {% include feature_row id="awsreinvent2018" type="left" %}
