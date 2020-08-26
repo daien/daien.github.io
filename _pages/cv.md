@@ -16,14 +16,11 @@ You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 
 ## Professional Experience
 
-**01/2020 - : Senior Manager, Machine Learning Research, Toyota Research Institute (TRI), CA, USA.**
-Head of Machine Learning Research at TRI. We explore how to learn from Experience for world-scale Autonomy. We invent and deploy new Machine Learning algorithms for Automated Driving that improve mobility and save lives. Our key research areas include Deep Learning (esp. self-supervised learning), Computer Vision (esp. dynamic 3D scene understanding), and using Simulation for ML (esp. inverse graphics and sim2real).
+**2020 - : Senior Manager, Machine Learning Research, Toyota Research Institute (TRI), CA, USA.**
+Head of the Machine Learning Research team at TRI. Applied ML research for Toyota’s future products,including World-scale Autonomous Robots that learn from Experience. Our key research areas includeDeep Learning (esp. self-supervised learning), Computer Vision (esp. dynamic 3D scene understanding),and using Simulation for ML (esp. differentiable rendering and sim2real).
 
-**07/2017 - 01/2020: Tech Lead and Manager (Machine Learning), Toyota Research Institute (TRI), CA, USA.**
-Manager of the ML team at TRI. Responsible for creating and leading TRI's ML strategy for Automated Driving, from research to deployment of safety-critical ML models. Grow the team from 3 to 12 research scientists and ML engineers. External leadership via publications, invited talks, and demonstrations.
-
-**2017 - 2020: Senior Research Scientist (Machine Learning), Toyota Research Institute (TRI), CA, USA.**
-Large scale Computer Vision and Deep Learning R&D for Automated Driving. Leading multiple projects, including novel research (scene understanding, object perception, 3D vision, domain adaptation, sim2real, self- and semi-supervised learning), distributed ML cloud infrastructure (deployed in production), and transfer to prototype vehicles tested on public roads. Leading scientific collaborations with Stanford and Preferred Networks (PFN). Technical advisor for Toyota AI Ventures.
+**2017 - 2019: Manager & Senior Research Scientist, Machine Learning, Toyota Research Institute (TRI), CA, USA.**
+Manager of the ML team at TRI. Responsible for creating and leading TRI’s ML strategy for AutomatedDriving, from research to ML cloud infrastructure (used in production) and deployment of safety-criticalML models on public roads. Founded and grew the team to a dozen research scientists and ML engineers.Technical advisor for Toyota AI Ventures. External leadership via publications (22 in 2017-2019), invitedtalks, demonstrations, and scientific collaborations (esp. with Stanford and Preferred Networks).
 
 **2013 - 2016: Research Scientist (Computer Vision), Xerox Research Center Europe, Meylan, France.**
 Led research and transfer projects on Deep Learning for video understanding (action recognition, multi-object tracking), domain adaptation, simulation for perception, and Business Process Modeling with Computer Vision.
