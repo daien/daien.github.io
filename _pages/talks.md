@@ -23,7 +23,7 @@ icra2020:
 wayve2020:
   - image_path: Wayve-2020-Adrien-talk.jpg
     alt: "Scaling Up for Autonomy - Talk at Wayve, April 2020"
-    title: "Scaling Up for Autonomy"
+    title: "Scaling Up for Autonomy, April 2020"
     excerpt: 'Talk given at <a href="https://wayve.ai/">Wayve</a> on going beyond supervised learning for autonomy. Overview of our recent ICCV and CVPR orals on imitation and perception.'
     btn_label: "Presentation (pdf)"
     btn_class: "btn--primary"
@@ -31,14 +31,32 @@ wayve2020:
 stanford2019:
   - image_path: Stanford-2019-Self-Supervised-Pseudo-Lidar-Adrien-Gaidon-talk.jpg
     alt: "Stanford seminar - 2019 - Self-supervised Pseudo-Lidar Networks"
-    title: "Self-supervised Pseudo-Lidar Networks - Stanford - 2019"
+    title: "Self-supervised Pseudo-Lidar Networks, Stanford, Oct. 2019"
     excerpt: 'Presentation at Stanford of our work on self-supervised monocular depth estimation (monodepth, a.k.a. pseudo-lidar)'
     btn_label: "YouTube"
     btn_class: "btn--primary"
     url: "https://www.youtube.com/watch?v=SLEK2vAgjOI"
+rework2019:
+  - image_path: rework-DL-2019-Adrien-Gaidon-interview.jpg
+    alt: "Adrien Gaidon interview at the re:work DL summit - 2019"
+    title: "Interview at the re:work DL summit, March 2019"
+    excerpt: 'A fun interview I gave in San Francisco at the re:work DL summit in 2019 on open problems in world-scale learning for autonomous driving'
+    btn_label: "YouTube"
+    btn_class: "btn--primary"
+    url: "https://www.youtube.com/watch?v=jBIYRoAQJuo"
+awsreinvent2018:
+  - image_path: aws-reinvent-2018-TRI-DL-infra-talk.jpg
+    alt: "AWS re:Invent 2018: Advancing Autonomous Vehicle Development Using Distributed Deep Learning at TRI"
+    title: "AWS re:Invent 2018: Advancing Autonomous Vehicle Development Using Distributed Deep Learning at TRI, Nov. 2018"
+    excerpt: 'A talk Chetan Kapoor, Mike Garrison, and I gave in Las Vegas at AWS re:Invent 2018 about our large scale ML infra, one of the first to do distributed deep learning with PyTorch on AWS p3 GPU instances.'
+    btn_label: "YouTube"
+    btn_class: "btn--primary"
+    url: "https://www.youtube.com/watch?v=B1w5R0jLMGA"
 ---
 
 {% include feature_row id="rss2020" type="left" %}
 {% include feature_row id="icra2020" type="left" %}
 {% include feature_row id="wayve2020" type="left" %}
 {% include feature_row id="stanford2019" type="left" %}
+{% include feature_row id="rework2019" type="left" %}
+{% include feature_row id="awsreinvent2018" type="left" %}
