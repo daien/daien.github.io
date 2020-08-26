@@ -77,3 +77,4 @@ dojo2018:
 {% include feature_row id="rework2019" type="left" %}
 {% include feature_row id="uva2019" type="left" %}
 {% include feature_row id="awsreinvent2018" type="left" %}
+{% include feature_row id="dojo2018" type="left" %}
