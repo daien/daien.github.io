@@ -9,7 +9,7 @@ venuetype: "conference"
 award: "oral, top 2%"
 paperauthors: 'K. Mangalam, H. Girase, S. Agarwal, K-H. Lee, E. Adeli, J. Malik, A. Gaidon'
 thumbnail: "pecnet-thumb.jpg"
-header.image: "pecnet-thumb.jpg"
+header.image: "/images/pecnet-thumb.jpg"
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2004.02025), [video](#video), [project page](https://karttikeya.github.io/publication/htf/), [code](https://github.com/HarshayuGirase/PECNet), [bibtex](#bibtex)
