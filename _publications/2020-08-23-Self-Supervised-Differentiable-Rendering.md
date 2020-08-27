@@ -8,6 +8,7 @@ venue: "ECCV 2020"
 venuetype: "conference"
 paperauthors: 'D. Beker, H. Kato, MA. Morariu, T. Ando, T. Matsuoka, W. Kehl, A. Gaidon'
 thumbnail: "self-supervised-dr-eccv-fig-1.jpg"
+og_image: "self-supervised-dr-eccv-fig-1.jpg"
 ---
 
 Links: [ECCV 2020 page](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3794_ECCV_2020_paper.php), [ECCV 2020 pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660511.pdf), [openreview](https://openreview.net/forum?id=bKuIk86iZS), arxiv (coming soon), [bibtex](#bibtex)
