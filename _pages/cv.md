@@ -17,7 +17,7 @@ You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 ## Professional Experience
 
 **2020 - : Senior Manager, Machine Learning Research, Toyota Research Institute (TRI), CA, USA.**
-Head of the Machine Learning Research team at TRI. Applied ML research for Toyota’s future products,including World-scale Autonomous Robots that learn from Experience. Our key research areas include Deep Learning (esp. self-supervised learning), Computer Vision (esp. dynamic 3D scene understanding, and using Simulation for ML (esp. differentiable rendering and sim2real).
+Head of the Machine Learning Research team at TRI. Applied ML research for Toyota’s future products, including World-scale Autonomous Robots that learn from Experience. Our key research areas include Deep Learning (esp. self-supervised learning), Computer Vision (esp. dynamic 3D scene understanding, and using Simulation for ML (esp. differentiable rendering and sim2real).
 
 **2017 - 2019: Manager & Senior Research Scientist, Machine Learning, Toyota Research Institute (TRI), CA, USA.**
 Manager of the ML team at TRI. Responsible for creating and leading TRI’s ML strategy for Automated Driving, from research to ML cloud infrastructure (used in production) and deployment of safety-critical ML models on public roads. Founded and grew the team to a dozen research scientists and ML engineers. Technical advisor for Toyota AI Ventures. External leadership via publications (22 in 2017-2019), invited talks, demonstrations, and scientific collaborations (esp. with Stanford and Preferred Networks).
