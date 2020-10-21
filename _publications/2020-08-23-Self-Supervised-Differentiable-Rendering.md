@@ -11,7 +11,7 @@ thumbnail: "self-supervised-dr-eccv-fig-1.jpg"
 og_image: "self-supervised-dr-eccv-fig-1.jpg"
 ---
 
-Links: [ECCV 2020 page](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3794_ECCV_2020_paper.php), [ECCV 2020 pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660511.pdf), [openreview](https://openreview.net/forum?id=bKuIk86iZS), arxiv (coming soon), [bibtex](#bibtex)
+Links: [ECCV 2020 page](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3794_ECCV_2020_paper.php), [ECCV 2020 pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660511.pdf), [openreview](https://openreview.net/forum?id=bKuIk86iZS), [arxiv](https://arxiv.org/abs/2009.14524), [bibtex](#bibtex)
 
 ![Self-supervised Differentiable Rendering overview](/images/self-supervised-dr-eccv-fig-1.jpg)
 
