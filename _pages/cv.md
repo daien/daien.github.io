@@ -8,7 +8,7 @@ redirect_from:
 modified: 2020-07-05
 ---
 
-(Last updated: July 2020)
+(Last updated: October 2020)
 
 You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 
@@ -57,6 +57,7 @@ Implementation (OCaml) of formal methods in the automatic proof research domain.
 
 ## Awards
 
+- Top 10% reviewer award at NeurIPS 2020
 - [COCO-Mapillary Competition Runner-Up at ECCV 2018](http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html)
 - Outstanding reviewer award at CVPR 2018
 - Outstanding reviewer award at CVPR 2015
@@ -68,6 +69,7 @@ Implementation (OCaml) of formal methods in the automatic proof research domain.
 
 ## Press Coverage and Interviews
 
+- TechXplore article on our IROS'20 paper on [A framework to increase the safety of robots operating in crowded environments](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html)
 - This Week in ML \& AI (TWiMLAI) podcast: ["Advancing Autonomous Vehicle Development Using Distributed Deep Learning"](https://twimlai.com/twiml-talk-269-advancing-autonomous-vehicle-development-using-distributed-deep-learning-with-adrien-gaidon/), 2019
 - [SF DL Summit interview on ML at Toyota](https://www.youtube.com/watch?v=jBIYRoAQJuo), 2019
 - [W\&B interview on ML at TRI](https://www.wandb.com/blog/tri-interview), 2019
@@ -100,7 +102,7 @@ multi-task learning, optimization, kernel methods, time series analysis
 
 ## Scientific Activities
 
-- 40+ publications ($1,600+$ citations, cf. below and [Google Scholar profile](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), 12 patents published (7 granted, cf. [Google Patents](https://patents.google.com/?inventor=Adrien+Gaidon&num=25)).
+- 50+ publications ($1,900+$ citations, cf. below and [Google Scholar profile](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), 19 patents published (8 granted, cf. [Google Patents](https://patents.google.com/?inventor=Adrien+Gaidon&num=25)).
 - Co-organizer of the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
 - Co-organizer of the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020)
 - Co-organizer of the [ICML 2019 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/icml2019aiad/home)

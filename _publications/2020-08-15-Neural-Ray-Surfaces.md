@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2020-08-15-Neural-Ray-Surfaces
 excerpt: "Neural Ray Surfaces (NRS) are convolutional networks that represent pixel-wise projection rays, approximating a wide range of cameras. NRS are fully differentiable and can be learned end-to-end from unlabeled raw videos."
 date: 2020-08-15
-venue: "arxiv 2020"
+venue: "3DV 2020"
+award: "oral"
 venuetype: "conference"
 paperauthors: 'I. Vasiljevic, V. Guizilini, R. Ambrus, S. Pillai, W. Burgard, G. Shakhnarovich, A. Gaidon'
 thumbnail: "neural-ray-surfaces-teaser.jpg"
@@ -30,10 +31,10 @@ Self-supervised learning has emerged as a powerful tool for depth and ego-motion
 
 ### Bibtex
 
-    @article{vasiljevic2020neural,
+    @inproceedings{vasiljevic2020neural,
         title={End-to-end Birds-eye-view Flow Estimation for Autonomous Driving},
         author={Igor Vasiljevic and Vitor Guizilini and Rares Ambrus and Sudeep Pillai
             and Wolfram Burgard and Greg Shakhnarovich and Adrien Gaidon},
-        journal={arxiv preprint arXiv:2008.06630},
+        booktitle={3DV},
         year={2020},
     }

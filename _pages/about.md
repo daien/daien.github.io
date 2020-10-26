@@ -12,6 +12,7 @@ I lead the Machine Learning Research team at the [Toyota Research Institute (TRI
 
 ## News
 
+- Octoborer 2020: got a "top 10% reviewer award" at NeurIPS 2020, 2 papers accepted at [CoRL 2020](https://www.robot-learning.org/) (self-supervised 3D keypoints and interpretable trajectory forecasting), 1 paper  (oral) at [3DV](http://3dv2020.dgcv.nii.ac.jp/) on [Neural Ray Surfaces](/publication/2020-08-15-Neural-Ray-Surface), and gave an invited talk at [IPAM](http://www.ipam.ucla.edu/abstract/?tid=16542&pcode=AVWS1)
 - August 2020: we are organizing the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
 - July 2020: we are organizing the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020)
 - July 2020: 2 papers (**[1 oral on trajectory prediction](/publication/2020-08-23-Endpoint-Conditioned-Trajectory-Prediction)**, [1 poster on differentiable rendering](/publication/2020-08-23-Self-Supervised-Differentiable-Rendering)) accepted at [ECCV 2020](https://eccv2020.eu/)
