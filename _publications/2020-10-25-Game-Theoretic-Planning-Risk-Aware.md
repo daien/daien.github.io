@@ -2,7 +2,7 @@
 title: "Game-Theoretic Planning for Risk-Aware Interactive Agents"
 collection: publications
 permalink: /publication/2020-10-25-Game-Theoretic-Planning-Risk-Aware
-excerpt: "A risk-sensitive game-theoretic control algorithm to model complex multi-agent interactions yielding more time-efficient, intuitive, and safe behaviors when facing underlying risks and uncertainty."
+excerpt: "A risk-sensitive game-theoretic planning algorithm to model complex multi-agent interactions yielding more time-efficient, intuitive, and safe behaviors when facing underlying risks and uncertainty."
 date: 2020-10-25
 venue: "IROS 2020"
 venuetype: "conference"
