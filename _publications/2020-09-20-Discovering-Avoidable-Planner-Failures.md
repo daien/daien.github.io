@@ -10,13 +10,19 @@ paperauthors: 'D. Nishiyama, M. Ynocente Castro, S. Maruyama, S. Shiroshita, K. 
 thumbnail: "planner-failures-teaser.jpg"
 ---
 
-Links: [arxiv](https://arxiv.org/abs/2011.11991), [bibtex](#bibtex)
+Links: [arxiv](https://arxiv.org/abs/2011.11991), [video](#video), [bibtex](#bibtex)
 
 ![Planner failure collision angles](/images/planner-failures-angles.jpg)
 
 ### Abtract
 
 Automated Vehicles require exhaustive testing in simulation to detect as many safety-critical failures as possible before deployment on public roads. In this work, we focus on the core decision-making component of autonomous robots: their planning algorithm. We introduce a planner testing framework that leverages recent progress in simulating behaviorally diverse traffic participants. Using large scale search, we generate, detect, and characterize dynamic scenarios leading to collisions. In particular, we propose methods to distinguish between unavoidable and avoidable accidents, focusing especially on automatically finding planner-specific defects that must be corrected before deployment. Through experiments in complex multi-agent intersection scenarios, we show that our method can indeed find a wide range of critical planner failures.
+
+
+### Video
+
+{% include youtube_embed.html id="ogwYjv7vv_g" %}
+
 
 ### Bibtex
 

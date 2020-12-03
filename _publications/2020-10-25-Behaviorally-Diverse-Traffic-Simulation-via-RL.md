@@ -10,13 +10,19 @@ paperauthors: 'S. Shiroshita, S. Maruyama, D. Nishiyama, M. Ynocente Castro, K. 
 thumbnail: "behaviorally-diverse-RL-teaser.jpg"
 ---
 
-Links: [arxiv](https://arxiv.org/abs/2011.05741), [bibtex](#bibtex)
+Links: [arxiv](https://arxiv.org/abs/2011.05741), [video](#video), [bibtex](#bibtex)
 
 ![Behaviorally Diverse RL](/images/behaviorally-diverse-RL.jpg)
 
 ### Abtract
 
 Traffic simulators are important tools in autonomous driving development. While continuous progress has been made to provide developers more options for modeling various traffic participants, tuning these models to increase their behavioral diversity while maintaining quality is often very challenging. This paper introduces an easily-tunable policy generation algorithm for autonomous driving agents. The proposed algorithm balances diversity and driving skills by leveraging the representation and exploration abilities of deep reinforcement learning via a distinct policy set selector. Moreover, we present an algorithm utilizing intrinsic rewards to widen behavioral differences in the training. To provide quantitative assessments, we develop two trajectory-based evaluation metrics which measure the differences among policies and behavioral coverage. We experimentally show the effectiveness of our methods on several challenging intersection scenes.
+
+
+### Video
+
+{% include youtube_embed.html id="nxiBXHnCn0o" %}
+
 
 ### Bibtex
 
