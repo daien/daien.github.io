@@ -13,12 +13,12 @@ I lead the Machine Learning Research team at the [Toyota Research Institute (TRI
 ## News
 
 - November 2020: 1 paper (**oral**) at [3DV](http://3dv2020.dgcv.nii.ac.jp/) on [Neural Ray Surfaces](/publication/2020-08-15-Neural-Ray-Surfaces)
-- October 2020: got a "top 10% reviewer award" at NeurIPS 2020!
+- October 2020: got a "top 10% reviewer award" at NeurIPS!
 - October 2020: 2 papers accepted at [CoRL 2020](https://www.robot-learning.org/), including one **[oral on self-supervised 3D keypoints](/publication/2020-11-16-KP3D-Self-supervised-3D-Kepyoints)** and a [poster on interpretable trajectory forecasting](/publication/2020-11-16-MATS-Trajectory-Forecasting)
 - October 2020: I gave an [invited talk at IPAM](https://www.youtube.com/watch?v=HltMaglvFKg) covering a lot of our recent results across the full AV stack.
 - August 2020: we are organizing the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
 - July 2020: we are organizing the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020)
-- July 2020: 2 papers accepted at [ECCV 2020](https://eccv2020.eu/), including an **[oral on trajectory prediction](/publication/2020-08-23-Endpoint-Conditioned-Trajectory-Prediction)** and a [poster on differentiable rendering](/publication/2020-08-23-Self-Supervised-Differentiable-Rendering))
+- July 2020: 2 papers accepted at [ECCV 2020](https://eccv2020.eu/), including an **[oral on trajectory prediction](/publication/2020-08-23-Endpoint-Conditioned-Trajectory-Prediction)** and a [poster on differentiable rendering](/publication/2020-08-23-Self-Supervised-Differentiable-Rendering)
 - July 2020: [5 papers](/publications/) accepted at [IROS 2020](https://www.iros2020.org/) and 1 at [ITSC](https://www.ieee-itsc2020.org/) on [scene flow](/publication/2020-10-25-End-to-end-Birds-eye-view-Flow), [imitation learning](/publication/2020-10-25-Driving-Through-Ghosts), [game-theoretic planning](/publication/2020-10-25-Game-Theoretic-Planning-Risk-Aware), [risk sensitive control](/publication/2020-10-25-Risk-Sensitive-Control-Trajectron), [traffic simulation](/publication/2020-10-25-Behaviorally-Diverse-Traffic-Simulation-via-RL), and [planner testing](/publication/2020-09-20-Discovering-Avoidable-Planner-Failures).
 - July 2020: [1 paper with Stanford on hierarchical RL and imitation in near-accidents](/publication/2020-07-15-Reinforcement-Learning-based-Control-of-Imitative-Policies-for-Near-Accident-Driving) accepted at [RSS 2020](https://roboticsconference.org/)
 - June 2020: Together with colleagues from PFN and TRI-AD, we have released a [survey on Differentiable Rendering](/publication/2020-06-22-Differentiable-Rendering-Survey).
