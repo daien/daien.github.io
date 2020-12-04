@@ -8,6 +8,10 @@ venue: "IROS 2020"
 venuetype: "conference"
 paperauthors: 'M. Wang, N. Mehr, A. Gaidon, M. Schwager'
 thumbnail: "leq-game.jpg"
+tags:
+   - IROS2020
+   - planning
+   - control
 ---
 
 Links: [pdf](/files/2020_IROS_leq_game.pdf), [video](#video), [bibtex](#bibtex)

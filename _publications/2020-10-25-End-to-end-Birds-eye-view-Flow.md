@@ -8,6 +8,10 @@ venue: "IROS 2020"
 venuetype: "conference"
 paperauthors: 'KH. Lee, M. Kliemann, A. Gaidon, J. Li, C. Fang, S. Pillai, W. Burgard'
 thumbnail: "pillarflow1.gif"
+tags:
+   - IROS2020
+   - flow
+   - tracking
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2008.01179), [bibtex](#bibtex)

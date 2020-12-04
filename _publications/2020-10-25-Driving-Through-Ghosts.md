@@ -8,6 +8,10 @@ venue: "IROS 2020"
 venuetype: "conference"
 paperauthors: 'A. Bühler, A. Gaidon, A. Cramariuc, R. Ambrus, G. Rosman, W. Burgard'
 thumbnail: "driving-through-ghosts-teaser.jpg"
+tags:
+   - IROS2020
+   - imitation learning
+   - uncertainty
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2008.12969), [video](#video), [bibtex](#bibtex)

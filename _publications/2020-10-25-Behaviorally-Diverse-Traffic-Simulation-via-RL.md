@@ -8,6 +8,11 @@ venue: "IROS 2020"
 venuetype: "conference"
 paperauthors: 'S. Shiroshita, S. Maruyama, D. Nishiyama, M. Ynocente Castro, K. Hamzaoui, G. Rosman, J. DeCastro, KH. Lee, A. Gaidon'
 thumbnail: "behaviorally-diverse-RL-teaser.jpg"
+tags:
+   - IROS2020
+   - planning
+   - simulation
+   - reinforcement learning
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2011.05741), [video](#video), [bibtex](#bibtex)

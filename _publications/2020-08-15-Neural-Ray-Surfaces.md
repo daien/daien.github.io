@@ -10,6 +10,7 @@ venuetype: "conference"
 paperauthors: 'I. Vasiljevic, V. Guizilini, R. Ambrus, S. Pillai, W. Burgard, G. Shakhnarovich, A. Gaidon'
 thumbnail: "neural-ray-surfaces-teaser.jpg"
 tags:
+   - 3DV2020
    - monocular depth estimation
    - self-supervised learning
    - structure-from-motion

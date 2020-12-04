@@ -9,6 +9,14 @@ venuetype: "conference"
 paperauthors: 'D. Beker, H. Kato, MA. Morariu, T. Ando, T. Matsuoka, W. Kehl, A. Gaidon'
 thumbnail: "self-supervised-dr-eccv-fig-1.jpg"
 og_image: "self-supervised-dr-eccv-fig-1.jpg"
+tags:
+  - ECCV2020
+  - Autolabeling
+  - Differentiable Rendering
+  - Pose and Shape Optimization
+  - Object Detection
+  - Autonomous Driving
+  - 3D Shape Modeling
 ---
 
 Links: [ECCV 2020 page](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3794_ECCV_2020_paper.php), [arxiv](https://arxiv.org/abs/2009.14524), [video](#video), [openreview](https://openreview.net/forum?id=bKuIk86iZS), [bibtex](#bibtex)

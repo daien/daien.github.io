@@ -2,7 +2,7 @@
 title: "Spatio-Temporal Graph for Video Captioning with Knowledge Distillation"
 collection: publications
 permalink: /publication/2020-06-16-Spatio-Temporal-Graph-for-Video-Captioning
-excerpt: "We propose a model that learns to distill spatio-temporal object interactions for video captioning."
+excerpt: "A model that learns to distill spatio-temporal object interactions for video captioning."
 date: 2020-06-16
 venue: "CVPR 2020"
 venuetype: "conference"

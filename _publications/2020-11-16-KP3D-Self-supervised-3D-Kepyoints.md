@@ -10,6 +10,7 @@ venuetype: "conference"
 paperauthors: 'J. Tang, R. Ambrus, V. Guizilini, S. Pillai, H. Kim, P. Jensfelt, A. Gaidon'
 thumbnail: "kp3d-keypoints-small.gif"
 tags:
+   - CoRL2020
    - self-supervised learning
    - keypoints
    - monocular depth estimation

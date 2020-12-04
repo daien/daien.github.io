@@ -8,6 +8,10 @@ venue: "ITSC 2020"
 venuetype: "conference"
 paperauthors: 'D. Nishiyama, M. Ynocente Castro, S. Maruyama, S. Shiroshita, K. Hamzaoui, Y. Ouyang, G. Rosman, J. DeCastro, KH. Lee, A. Gaidon'
 thumbnail: "planner-failures-teaser.jpg"
+tags:
+   - planning
+   - simulation
+   - testing
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2011.11991), [video](#video), [bibtex](#bibtex)

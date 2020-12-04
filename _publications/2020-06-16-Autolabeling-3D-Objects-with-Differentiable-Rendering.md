@@ -2,7 +2,7 @@
 title: Autolabeling 3D Objects with Differentiable Rendering of SDF Shape Priors"
 collection: publications
 permalink: /publication/2020-06-16-Autolabeling-3D-Objects-with-Differentiable-Rendering
-excerpt: "We present an automatic annotation pipeline to recover 9D cuboids and 3D shapes from pre-trained off-the-shelf 2D detectors and sparse LIDAR data."
+excerpt: "An automatic annotation pipeline to recover 9D cuboids and 3D shapes from pre-trained off-the-shelf 2D detectors and sparse LIDAR data."
 date: 2020-06-16
 venue: "CVPR 2020"
 venuetype: "conference"

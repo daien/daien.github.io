@@ -8,6 +8,12 @@ venue: "IROS 2020"
 venuetype: "conference"
 paperauthors: 'H. Nishimura, B. Ivanovic, A. Gaidon, M. Pavone, M. Schwager'
 thumbnail: "rssac-trajectron-teaser.jpg"
+tags:
+   - IROS2020
+   - trajectory forecasting
+   - prediction
+   - planning
+   - control
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2009.05702), [video](#video), [bibtex](#bibtex)

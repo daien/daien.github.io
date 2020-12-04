@@ -2,7 +2,7 @@
 title: "It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction"
 collection: publications
 permalink: /publication/2020-08-23-Endpoint-Conditioned-Trajectory-Prediction
-excerpt: "Predicted Endpoint Conditioned Network (PECNet) for flexible human trajectory prediction. PECNet infers distant trajectory endpoints to assist in long-range multi-modal trajectory prediction."
+excerpt: "Predicted Endpoint Conditioned Network (PECNet) for flexible human trajectory prediction via endpoint inference."
 date: 2020-08-27
 venue: "ECCV 2020"
 venuetype: "conference"
@@ -11,6 +11,7 @@ paperauthors: 'K. Mangalam, H. Girase, S. Agarwal, K-H. Lee, E. Adeli, J. Malik,
 thumbnail: "pecnet-thumb.jpg"
 header.image: "/images/pecnet-thumb.jpg"
 tags:
+   - ECCV2020
    - trajectory forecasting
    - prediction
 ---

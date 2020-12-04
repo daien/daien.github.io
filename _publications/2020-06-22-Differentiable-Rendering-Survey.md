@@ -2,11 +2,13 @@
 title: "Differentiable Rendering: A Survey"
 collection: publications
 permalink: /publication/2020-06-22-Differentiable-Rendering-Survey
-excerpt: "This paper reviews existing literature and discusses the current state of differentiable rendering, its applications, and open research problems."
+excerpt: "A review of the literature and current state of differentiable rendering, its applications, and open research problems."
 date: 2020-06-22
 venue: arXiv
 paperauthors: 'H. Kato, D. Beker, M. Morariu, T. Ando, T. Matsuoka, W. Kehl, A. Gaidon'
 thumbnail: "differentiable-rendering-survey-thumb.jpg"
+tags:
+  - Differentiable Rendering
 ---
 
 Links: [arxiv](https://arxiv.org/abs/2006.12057), [bibtex](#bibtex)

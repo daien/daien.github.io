@@ -2,7 +2,7 @@
 title: "3D Packing for Self-Supervised Monocular Depth Estimation"
 collection: publications
 permalink: /publication/2020-06-16-3D-Packing-for-Self-Supervised-Monocular-Depth-Estimation
-excerpt: "We introduce a new state of the art in self-supervised monocular depth estimation (PackNet), a new benchmark (DDAD), and weak velocity supervision."
+excerpt: "A new state of the art in self-supervised monocular depth estimation (PackNet), a new benchmark (DDAD), and weak velocity supervision."
 date: 2020-06-16
 venue: "CVPR 2020"
 venuetype: "conference"

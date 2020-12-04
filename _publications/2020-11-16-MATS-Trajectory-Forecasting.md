@@ -9,6 +9,7 @@ venuetype: "conference"
 paperauthors: 'B. Ivanovic, A. Elhafsi, G. Rosman, A. Gaidon, M. Pavone'
 thumbnail: "mats-teaser.jpg"
 tags:
+   - CoRL2020
    - trajectory forecasting
    - prediction
    - planning

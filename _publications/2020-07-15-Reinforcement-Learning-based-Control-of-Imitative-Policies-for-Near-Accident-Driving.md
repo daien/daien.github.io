@@ -2,12 +2,17 @@
 title: "Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving"
 collection: publications
 permalink: /publication/2020-07-15-Reinforcement-Learning-based-Control-of-Imitative-Policies-for-Near-Accident-Driving
-excerpt: "We propose a hierarchical reinforcement and imitation learning (H-ReIL) approach for learning to drive in near-accident scenarios."
+excerpt: "A hierarchical reinforcement and imitation learning (H-ReIL) approach for learning to drive in near-accident scenarios."
 date: 2020-07-15
 venue: "RSS 2020"
 venuetype: "conference"
 paperauthors: 'Z. Cao, E. Biyik, W. Z. Wang, A. Raventos, A. Gaidon, G. Rosman, D. Sadigh'
 thumbnail: "rss2020-h-reil-thumbnail.jpg"
+tags:
+   - planning
+   - simulation
+   - imitation learning
+   - reinforcement learning
 ---
 
 Links: [RSS 2020 page](https://roboticsconference.org/program/papers/39/), [video](#video), [arxiv](https://arxiv.org/abs/2007.00178), [bibtex](#bibtex)

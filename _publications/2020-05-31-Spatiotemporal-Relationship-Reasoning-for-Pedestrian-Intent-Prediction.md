@@ -2,7 +2,7 @@
 title: "Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction"
 collection: publications
 permalink: /publication/2020-05-31-Spatiotemporal-Relationship-Reasoning-for-Pedestrian-Intent-Prediction
-excerpt: "We propose a graph convolutional model operating on scene graphs to predict pedestrian crossing intent and introduce the STIP dataset."
+excerpt: "A new dataset (STIP) and graph neural network operating on scene graphs to predict pedestrian crossing intent."
 date: 2020-05-31
 venue: "RA-L & ICRA 2020"
 venuetype: "journal"
