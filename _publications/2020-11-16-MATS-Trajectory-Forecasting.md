@@ -16,7 +16,7 @@ tags:
    - control
 ---
 
-Links: [arxiv](https://arxiv.org/abs/2009.07517), [CoRL page](https://corlconf.github.io/paper_499/), [video](#video), [bibtex](#bibtex)
+Links: [arxiv](https://arxiv.org/abs/2009.07517), [code](https://github.com/StanfordASL/MATS), [CoRL page](https://corlconf.github.io/paper_499/), [video](#video), [bibtex](#bibtex)
 
 ![MATS idea](/images/mats-figure-1.jpg)
 

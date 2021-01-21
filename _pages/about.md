@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I lead the Machine Learning Research team at the [Toyota Research Institute (TRI)](https://www.tri.global/) in Los Altos, CA, USA. My research focuses on scaling up ML for Robot Autonomy, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning (cf. [a short bio](#bio) below). Outside of work, I spend time with my wife, daughter, and the mountains (I love camping, climbing, and snowboarding). You can find my [publications](/publications/), [talks](/talks/), and [CV](/cv/) on this site.
+I lead the Machine Learning Research team at the [Toyota Research Institute (TRI)](https://www.tri.global/) in Los Altos, CA, USA. My research focuses on scaling up ML for Robot Autonomy, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning (cf. [a short bio](#bio) below). Outside of work, I spend time with my wife, daughter, and the mountains (I love camping, climbing, and snowboarding). You can find (some of) my [publications](/publications/), [talks](/talks/), and my [CV](/cv/) on this site.
 
 ## News
 
-- November 2020: 1 paper (**oral**) at [3DV](http://3dv2020.dgcv.nii.ac.jp/) on [Neural Ray Surfaces](/publication/2020-08-15-Neural-Ray-Surfaces)
+- January 2021: 1 paper on [distributionally robust control](https://arxiv.org/abs/2010.08174) accepted at RA-L/ICRA and another at [ICLR](https://iclr.cc/) on [regularization for heteroskedastic and imbalanced Deep Learning](https://arxiv.org/abs/2006.15766). Both on robustness and with great Stanford collaborators from [Mac Schwager](https://web.stanford.edu/~schwager/) and [Tengyu Ma](https://ai.stanford.edu/~tengyuma/)'s labs.
+- November 2020: 1 paper (**oral**) at [3DV](http://3dv2020.dgcv.nii.ac.jp/) on [Neural Ray Surfaces](/publication/2020-08-15-Neural-Ray-Surfaces) in collaboration with [Greg Shakhnarovich](https://ttic.uchicago.edu/~gregory/) at TTIC.
 - October 2020: got a "top 10% reviewer award" at NeurIPS!
-- October 2020: 2 papers accepted at [CoRL 2020](https://www.robot-learning.org/), including one **[oral on self-supervised 3D keypoints](/publication/2020-11-16-KP3D-Self-supervised-3D-Kepyoints)** and a [poster on interpretable trajectory forecasting](/publication/2020-11-16-MATS-Trajectory-Forecasting)
+- October 2020: 2 papers accepted at [CoRL 2020](https://www.robot-learning.org/), including one **[oral on self-supervised 3D keypoints](/publication/2020-11-16-KP3D-Self-supervised-3D-Kepyoints)** and a [poster on interpretable trajectory forecasting](/publication/2020-11-16-MATS-Trajectory-Forecasting) in collaboration with [Marco Pavone](https://web.stanford.edu/~pavone/)'s lab at Stanford
 - October 2020: I gave an [invited talk at IPAM](https://www.youtube.com/watch?v=HltMaglvFKg) covering a lot of our recent results across the full AV stack.
 - August 2020: we are organizing the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
 - July 2020: we are organizing the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020)
