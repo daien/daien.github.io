@@ -12,6 +12,7 @@ I lead the Machine Learning Research team at the [Toyota Research Institute (TRI
 
 ## News
 
+- March 2021: 2 papers accepted at [CVPR'21](http://cvpr2021.thecvf.com/)! (links coming soon)
 - February 2021: 1 paper at RoboSoft in collaboration with the brilliant TRI Robotics team on [monocular depth estimation inside visuotactile sensors](/publication/2021-01-22-Monocular-Depth-SoftBubble).
 - January 2021: 1 paper on [distributionally robust control](/publication/2021-01-30-RAT-iLQR) accepted at RA-L/ICRA and another at [ICLR](https://iclr.cc/) on [regularization for heteroskedastic and imbalanced Deep Learning](/publication/2021-01-12-Heteroskedastic-and-Imbalanced-Deep-Learning). Both on robustness and with great Stanford collaborators from [Mac Schwager](https://web.stanford.edu/~schwager/) and [Tengyu Ma](https://ai.stanford.edu/~tengyuma/)'s labs.
 - November 2020: 1 paper (**oral**) at [3DV](http://3dv2020.dgcv.nii.ac.jp/) on [Neural Ray Surfaces](/publication/2020-08-15-Neural-Ray-Surfaces) in collaboration with [Greg Shakhnarovich](https://ttic.uchicago.edu/~gregory/) at TTIC.
