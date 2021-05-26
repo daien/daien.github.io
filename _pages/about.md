@@ -12,6 +12,7 @@ I lead the Machine Learning Research team at the [Toyota Research Institute (TRI
 
 ## News
 
+- May 2021: got an [outstanding reviewer award at CVPR](http://cvpr2021.thecvf.com/node/184)!
 - May 2021: we are organizing the CVPR'21 [DDAD depth estimation challenge](https://eval.ai/web/challenges/challenge-page/902/overview)! Try your ideas on public data from our TRI fleet! Winners will win prizes and present, along with prestigious invited speakers, at our [Mono3D CVPR'21 workshop](https://sites.google.com/view/mono3d-workshop/) on the Frontiers of Monocular 3D Perception.
 - May 2021: together with Vitor and Rares, we wrote a blog post summarizing a lot of our research results in [self-supervised learning for depth estimation](https://medium.com/toyotaresearch/self-supervised-learning-in-depth-part-1-of-2-74825baaaa04).
 - May 2021: I did a [fun interview about ML for Autonomous Driving](https://wandb.ai/wandb_fc/gradient-dissent/reports/TRI-s-Adrien-Gaidon-on-advancing-ML-research-in-autonomous-vehicles--Vmlldzo2MzEzMTE) with Lukas Biewald for the Gradient Dissent podcast. Check it out!
