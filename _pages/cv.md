@@ -8,13 +8,16 @@ redirect_from:
 modified: 2020-07-05
 ---
 
-(Last updated: October 2020)
+(Last updated: February 2022)
 
 You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 
 {% include base_path %}
 
 ## Professional Experience
+
+**2021 - : Adjunct Lecturer, Stanford University, CA, USA.**
+Co-lecturer (with Prof. Niebles) for CS131: [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2122/index.html).
 
 **2020 - : Senior Manager, Machine Learning Research, Toyota Research Institute (TRI), CA, USA.**
 Head of the Machine Learning Research team at TRI. Applied ML research for Toyota’s future products, including World-scale Autonomous Robots that learn from Experience. Our key research areas include Deep Learning (esp. self-supervised learning), Computer Vision (esp. dynamic 3D scene understanding), and using Simulation for ML (esp. differentiable rendering and sim2real).
