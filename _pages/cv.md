@@ -60,6 +60,7 @@ Implementation (OCaml) of formal methods in the automatic proof research domain.
 
 ## Awards
 
+- Outstanding reviewer award at CVPR 2021
 - Top 10% reviewer award at NeurIPS 2020
 - [COCO-Mapillary Competition Runner-Up at ECCV 2018](http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html)
 - Outstanding reviewer award at CVPR 2018
@@ -72,6 +73,7 @@ Implementation (OCaml) of formal methods in the automatic proof research domain.
 
 ## Press Coverage and Interviews
 
+- Gradient Dissent Podcast: [Advancing ML research in autonomous vehicles](https://wandb.ai/wandb_fc/gradient-dissent/reports/TRI-s-Adrien-Gaidon-on-advancing-ML-research-in-autonomous-vehicles--Vmlldzo2MzEzMTE), 2021
 - TechXplore article on our IROS'20 paper on [A framework to increase the safety of robots operating in crowded environments](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html)
 - This Week in ML \& AI (TWiMLAI) podcast: ["Advancing Autonomous Vehicle Development Using Distributed Deep Learning"](https://twimlai.com/twiml-talk-269-advancing-autonomous-vehicle-development-using-distributed-deep-learning-with-adrien-gaidon/), 2019
 - [SF DL Summit interview on ML at Toyota](https://www.youtube.com/watch?v=jBIYRoAQJuo), 2019
@@ -105,7 +107,8 @@ multi-task learning, optimization, kernel methods, time series analysis
 
 ## Scientific Activities
 
-- 50+ publications ($1,900+$ citations, cf. below and [Google Scholar profile](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), 19 patents published (8 granted, cf. [Google Patents](https://patents.google.com/?inventor=Adrien+Gaidon&num=25)).
+- 50+ publications ($4,000+$ citations, cf. below and [Google Scholar profile](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), 70+ patents filed (23 granted, cf. [Google Patents](https://patents.google.com/?inventor=Adrien+Gaidon&num=25)).
+- Co-organizer of the [CVPR 2021 workshop on the Frontiers of Monocular 3D Perception (Mono3D)](https://sites.google.com/view/mono3d-workshop/)
 - Co-organizer of the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
 - Co-organizer of the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020)
 - Co-organizer of the [ICML 2019 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/icml2019aiad/home)
@@ -116,11 +119,13 @@ multi-task learning, optimization, kernel methods, time series analysis
 
 ### Publications
 
-NB: this is not up to date yet. See my [CV as pdf](/files/CV_Adrien_Gaidon.pdf) or the [Publications](/publications) page.
+See my [Google Scholar Profile](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en), [arxiv](https://arxiv.org/search/cs?searchtype=author&query=Gaidon%2C+A), [my CV as pdf](/files/CV_Adrien_Gaidon.pdf), or the [Publications](/publications) page.
 
+<!--
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
 
 ### Talks
 
