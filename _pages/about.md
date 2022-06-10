@@ -12,6 +12,7 @@ I am the head of Machine Learning at the [Toyota Research Institute (TRI)](https
 
 ## News
 
+- June 2022: I am proposing a new paradigm for Embodied Intelligence: **Principle-centric AI**. See an intro in my [TWiMLAI podcast with Sam Charrington](https://twimlai.com/podcast/twimlai/principle-centric-ai-adrien-gaidon/) and a [technical presentation at ICRA'22](https://www.youtube.com/watch?v=qzo61V7G1EM&t=8312s).
 - May 2022: new paper accepted at **ICML'22**: [Object Permanence Emerges in a Random Walk along Memory](https://arxiv.org/abs/2204.01784).
 - March 2022: 3 papers accepted at **CVPR'22**:  [Revisiting the "Video" in Video-Language Understanding](https://arxiv.org/abs/2206.01720) (**oral**), [Multi-Frame Self-Supervised Depth with Transformers](https://arxiv.org/abs/2204.07616), [Discovering Objects that Can Move](https://arxiv.org/abs/2203.10159).
 - February 2022: 4 papers accepted at **ICRA'22**: [Full Surround Monodepth from Multiple Cameras](https://arxiv.org/abs/2104.00152) (FSM), [Self-Supervised Camera Self-Calibration from Video](https://arxiv.org/abs/2112.03325), [Learning Optical Flow, Depth, and Scene Flow without Real-World Labels](https://arxiv.org/abs/2203.15089), and [Control-Aware  Prediction  Objectives  for  Autonomous  Driving](https://arxiv.org/abs/2204.13319).
