@@ -94,6 +94,8 @@ dojo2018:
     url: "https://youtu.be/yq09er8YWZM?t=3359"
 ---
 
+List irregularly updated: you can find the full list in my [CV](/files/CV_Adrien_Gaidon.pdf) and latest news on the [homepage](/about).
+
 {% include feature_row id="twimlai22" type="left" %}
 {% include feature_row id="icra22" type="left" %}
 {% include feature_row id="dissent21" type="left" %}
