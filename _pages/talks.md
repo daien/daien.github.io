@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 date: 2022-06-10
 twimlai22:
-  - image_path: TWIMLAI-Adrien-Gaidon-Principle-centric-AI.jpeg
+  - image_path:
     alt: "Principle-centric AI"
     title: "Principle-centric AI, TWIMLAI Podcast, June, 2022"
     excerpt: 'Introducing a new framework for embodied intelligence I call Principle-centric AI: leveraging (and learning) inductive priors to guide learning towards better outcomes (safety, efficiency, robustness).'
