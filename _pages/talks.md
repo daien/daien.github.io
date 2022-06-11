@@ -4,30 +4,6 @@ title: "Selected Talks"
 permalink: /talks/
 author_profile: true
 date: 2022-06-10
-twimlai22:
-  - image_path: TWIMLAI-Adrien-Gaidon-Principle-centric-AI.jpeg
-    alt: "Principle-centric AI"
-    title: "Principle-centric AI, TWIMLAI Podcast, June, 2022"
-    excerpt: 'Introducing a new framework for embodied intelligence I call Principle-centric AI: leveraging (and learning) inductive priors to guide learning towards better outcomes (safety, efficiency, robustness).'
-    btn_label: "Podcast"
-    btn_class: "btn--primary"
-    url: "https://twimlai.com/podcast/twimlai/principle-centric-ai-adrien-gaidon/"
-icra22:
-  - image_path: ICRA2022-Principle-centric-AI-for-Embodied-Intelligence.png
-    alt: "Principle-centric AI for Embodied Intelligence"
-    title: "Principle-centric AI for Embodied Intelligence, ICRA, May, 2022"
-    excerpt: 'Why principles might help taking ML to the next level for embodied platforms and how we have successfully used them so far. Invited talk at the ICRA'22 work on "Fresh Perspectives for Autonomous Driving"'
-    btn_label: "Youtube"
-    btn_class: "btn--primary"
-    url: "https://www.youtube.com/watch?v=qzo61V7G1EM&t=8312s"
-dissent21:
-  - image_path: Gradient-dissent-Adrien-Gaidon-2021.png
-    alt: "Advancing ML Research in Autonomous Vehicles"
-    title: "Advancing ML Research in Autonomous Vehicles, Gradient Dissent Podcast, Dec, 2021"
-    excerpt: 'A fun interview where I share my approach to building teams and taking state-of-the-art research from conception to production.'
-    btn_label: "Podcast"
-    btn_class: "btn--primary"
-    url: "https://wandb.ai/wandb_fc/gradient-dissent/reports/TRI-s-Adrien-Gaidon-on-advancing-ML-research-in-autonomous-vehicles--Vmlldzo2MzEzMTE"
 rss2020:
   - image_path: RSS-2020-IDA-Adrien-talk.jpg
     alt: "RSS 2020 IDA workshop The R's and P's of Autonomy"
