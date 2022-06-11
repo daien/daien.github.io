@@ -94,9 +94,6 @@ dojo2018:
     url: "https://youtu.be/yq09er8YWZM?t=3359"
 ---
 
-{% include feature_row id="twimlai22" type="left" %}
-{% include feature_row id="icra22" type="left" %}
-{% include feature_row id="dissent21" type="left" %}
 {% include feature_row id="rss2020" type="left" %}
 {% include feature_row id="icra2020" type="left" %}
 {% include feature_row id="wayve2020" type="left" %}
