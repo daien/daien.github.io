@@ -3,7 +3,15 @@ layout: archive
 title: "Selected Talks"
 permalink: /talks/
 author_profile: true
-date: 2020-07-28
+date: 2022-06-10
+twimlai22:
+  - image_path:
+    alt: "Principle-centric AI"
+    title: "Principle-centric AI"
+    excerpt: 'Introducing a new framework for embodied intelligence I call Principle-centric AI: leveraging (and learning) inductive priors to guide learning towards better outcomes (safety, efficiency, robustness).'
+    btn_label: "Podcast"
+    btn_class: "btn--primary"
+    url: "https://twimlai.com/podcast/twimlai/principle-centric-ai-adrien-gaidon/"
 rss2020:
   - image_path: RSS-2020-IDA-Adrien-talk.jpg
     alt: "RSS 2020 IDA workshop The R's and P's of Autonomy"
@@ -70,6 +78,7 @@ dojo2018:
     url: "https://youtu.be/yq09er8YWZM?t=3359"
 ---
 
+{% include feature_row id="twimlai22" type="left" %}
 {% include feature_row id="rss2020" type="left" %}
 {% include feature_row id="icra2020" type="left" %}
 {% include feature_row id="wayve2020" type="left" %}
