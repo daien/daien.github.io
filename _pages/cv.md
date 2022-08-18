@@ -8,7 +8,7 @@ redirect_from:
 modified: 2020-07-05
 ---
 
-(Last updated: June 2022)
+(Last updated: August 2022)
 
 You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 
@@ -19,8 +19,8 @@ You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 **2021 - : Adjunct Lecturer, Stanford University, CA, USA.**
 Co-lecturer (with Prof. Niebles) for CS131: [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2122/index.html).
 
-**2020 - : Head of Machine Learning Research, Toyota Research Institute (TRI), CA, USA.**
-Leader of the ML org at TRI (3 departments, ~20 people). Responsible for strategy, research, and tech transfer to build Toyota's ML foundations across applications. Contributed to 40 papers at top ML venues, 50 patents, and 5 practical applications since Jan. 2020. Part of TRI's executive leadership team.
+**2020 - : Head of Machine Learning, Toyota Research Institute (TRI), CA, USA.**
+Leader of the ML org at TRI (3 departments, ~20 people, Senior Manager 2020-2021, Director 2022-). Responsible for strategy, research, and tech transfer to build Toyota's ML foundations across applications. Contributed to 46+ papers at top ML venues, 50+ patents, and 5 practical applications since Jan. 2020. Part of TRI's executive leadership team since 2022.
 
 **2017 - 2019: Manager & Senior Research Scientist, Machine Learning, Toyota Research Institute (TRI), CA, USA.**
 Founder and Manager of the ML team at TRI. Responsible for creating and leading TRI's ML strategy for Automated Driving, from academic collaborations (esp. with Stanford), research (22 publications in 2017-2019), to ML cloud infrastructure, and deployment of safety-critical models on public roads.
