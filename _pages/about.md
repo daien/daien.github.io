@@ -12,7 +12,8 @@ I am the head of Machine Learning at the [Toyota Research Institute (TRI)](https
 
 ## News
 
-- July 2022: 4 papers accepted at **ECCV'22**: [Depth Field Networks (DeFiNe)](https://arxiv.org/abs/2207.14287), [implicit representations of shape and appearance (ShAPO)](https://arxiv.org/abs/2207.13691), Photo-realistic Neural Domain Randomization (PNDR), Stochastic Sequential Pointcloud Forecasting (S2Net)
+- September 2022: 3 papers accepted at **CoRL'22**: [ROAD: Learning an Implicit Recursive Octree Auto-Decoder to Efficiently Encode 3D Shapes](https://openreview.net/forum?id=EVFrjBgYsPZ), [Representation Learning for Object Detection from Unlabeled Point Cloud Sequences](https://openreview.net/forum?id=nuAGobCwb8V), and [RAP: Risk-Aware Prediction for Robust Planning](https://openreview.net/forum?id=z_hPo2Fu9A3) (**oral**).
+- July 2022: 4 papers accepted at **ECCV'22**: [Depth Field Networks (DeFiNe)](https://arxiv.org/abs/2207.14287), [implicit representations of shape and appearance (ShAPO)](https://arxiv.org/abs/2207.13691), [Photo-realistic Neural Domain Randomization (PNDR)](https://arxiv.org/abs/2210.12682), [Stochastic Sequential Pointcloud Forecasting (S2Net)](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870541.pdf).
 - June 2022: I am proposing a new paradigm for Embodied Intelligence: **Principle-centric AI**. See an intro in my [TWiMLAI podcast with Sam Charrington](https://twimlai.com/podcast/twimlai/principle-centric-ai-adrien-gaidon/) and a [technical presentation at ICRA'22](https://www.youtube.com/watch?v=qzo61V7G1EM&t=8312s).
 - June 2022: one paper accepted at **IROS'22** on [uncertainty modeling for trajectory forecasting (HAICU)](https://arxiv.org/abs/2104.12446)
 - May 2022: new paper accepted at **ICML'22**: [Object Permanence Emerges in a Random Walk along Memory](https://arxiv.org/abs/2204.01784).
