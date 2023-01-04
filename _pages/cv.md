@@ -106,7 +106,7 @@ multi-task learning, optimization, kernel methods, time series analysis
 
 ## Scientific Activities
 
-- 80+ publications ($4,500+$ citations, cf. below and [Google Scholar profile](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), 80+ patents filed (30 granted, cf. [Google Patents](https://patents.google.com/?inventor=Adrien+Gaidon&num=25)).
+- 80+ publications ($6,000$ citations, cf. below and [Google Scholar profile](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), 80+ patents filed (30 granted, cf. [Google Patents](https://patents.google.com/?inventor=Adrien+Gaidon&num=25)).
 - Co-organizer of the [CVPR 2021 workshop on the Frontiers of Monocular 3D Perception (Mono3D)](https://sites.google.com/view/mono3d-workshop/)
 - Co-organizer of the [ECCV 2020 workshop on Perception for Autonomous Driving (PAD)](https://sites.google.com/view/pad2020)
 - Co-organizer of the [ICML 2020 workshop on AI for Autonomous Driving (AIAD)](https://sites.google.com/view/aiad2020)
