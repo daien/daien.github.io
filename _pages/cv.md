@@ -5,10 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-modified: 2020-07-05
+modified: 2023-02-06
 ---
 
-(Last updated: August 2022)
+(Last updated: Feb 2023)
 
 You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 
@@ -16,7 +16,8 @@ You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 
 ## Professional Experience
 
-**2021 - : Adjunct Lecturer, Stanford University, CA, USA.**
+**2021 - : Adjunct Faculty, Stanford University, CA, USA.**
+Adjunct Lecturer 2021-2022, Adjunct Professor since 2023.
 Co-lecturer (with Prof. Niebles) for CS131: [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2122/index.html).
 
 **2020 - : Head of Machine Learning, Toyota Research Institute (TRI), CA, USA.**

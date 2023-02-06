@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am the head of Machine Learning at the [Toyota Research Institute (TRI)](https://www.tri.global/) and an Adjunct Lecturer at Stanford, CA, USA. My work focuses on scaling up ML for Embodied Intelligence, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning (cf. [a short bio](#bio) and my [CV](/cv) for more info). Outside of work, I spend time with my wife, daughter, and the mountains (I love camping, climbing, and snowboarding).
+I am the head of Machine Learning at the [Toyota Research Institute (TRI)](https://www.tri.global/) and an Adjunct Professor at Stanford, CA, USA. My work focuses on scaling up ML for Embodied Intelligence, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning (cf. [a short bio](#bio) and my [CV](/cv) for more info). Outside of work, I spend time with my wife, daughter, and the mountains (I love camping, climbing, and snowboarding).
 
 ## News
 
+- January 2023: [Neural Groundplans](https://prafullsharma.net/see3d/) published at **ICLR'23**, [Depth Is All You Need for 3D Detection]() at **ICRA'23**, and [Active Sampling to reduce Causal Confusion](https://openreview.net/forum?id=IaaRcteVzuc) at the NeurIPS'23 [CML4Impact workshop](https://www.cml-4-impact.vanderschaar-lab.com/).
 - September 2022: 3 papers accepted at **CoRL'22**: [ROAD: Learning an Implicit Recursive Octree Auto-Decoder to Efficiently Encode 3D Shapes](https://openreview.net/forum?id=EVFrjBgYsPZ), [Representation Learning for Object Detection from Unlabeled Point Cloud Sequences](https://openreview.net/forum?id=nuAGobCwb8V), and [RAP: Risk-Aware Prediction for Robust Planning](https://openreview.net/forum?id=z_hPo2Fu9A3) (**oral**).
 - July 2022: 4 papers accepted at **ECCV'22**: [Depth Field Networks (DeFiNe)](https://arxiv.org/abs/2207.14287), [implicit representations of shape and appearance (ShAPO)](https://arxiv.org/abs/2207.13691), [Photo-realistic Neural Domain Randomization (PNDR)](https://arxiv.org/abs/2210.12682), [Stochastic Sequential Pointcloud Forecasting (S2Net)](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870541.pdf).
 - June 2022: I am proposing a new paradigm for Embodied Intelligence: **Principle-centric AI**. See an intro in my [TWiMLAI podcast with Sam Charrington](https://twimlai.com/podcast/twimlai/principle-centric-ai-adrien-gaidon/) and a [technical presentation at ICRA'22](https://www.youtube.com/watch?v=qzo61V7G1EM&t=8312s).
@@ -66,5 +67,11 @@ I am the head of Machine Learning at the [Toyota Research Institute (TRI)](https
 
 ## Bio
 
-Adrien Gaidon is the Head of Machine Learning Research at the [Toyota Research Institute (TRI)](https://www.tri.global/) and an Adjunct Lecturer at Stanford, CA, USA. Adrien's research focuses on scaling up ML for robot autonomy, spanning Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning. He received his PhD from [Microsoft Research - Inria](https://www.msr-inria.fr/) Paris in 2012, has over 80 publications and 80 patents in ML & Computer Vision (cf. [Google Scholar](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)), and his research is used in a variety of domains, including automated driving. You can find him at [adriengaidon.com](https://www.adriengaidon.com), on [linkedin](https://www.linkedin.com/in/adrien-gaidon-63ab2358/), and Twitter [@adnothing](https://twitter.com/adnothing).
+Dr. Adrien Gaidon is the Director of Machine Learning at [Toyota Research Institute (TRI)](https://www.tri.global/) and an Adjunct Professor of computer science at Stanford University. Dr. Gaidon’s research focuses on discovering machine learning principles at the foundation of embodied intelligence. He has over 80 publications at top AI venues covering fundamental topics like Computer Vision and Learning for Robotics (cf. [Google Scholar](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en)). His research has led to more than 80 patents and applications in areas including safe and autonomous driving.
+Dr. Gaidon received his Ph.D. from [Microsoft Research - Inria Paris](https://www.microsoft.com/en-us/research/collaboration/inria-joint-centre/) and has received multiple scientific awards at top conferences like CVPR and international AI competitions like PASCAL VOC and NeurIPS ProcGen.
+
+You can find him at [adriengaidon.com](https://www.adriengaidon.com), on [linkedin](https://www.linkedin.com/in/adrien-gaidon-63ab2358/), and Twitter [@adnothing](https://twitter.com/adnothing).
+
+
+
 
