@@ -5,10 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-modified: 2023-02-06
+modified: 2023-08-23
 ---
 
-(Last updated: Feb 2023)
+(Last updated: August 2023)
 
 You can also find my CV in pdf format [here](/files/CV_Adrien_Gaidon.pdf).
 
