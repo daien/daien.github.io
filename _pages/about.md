@@ -14,7 +14,7 @@ Since 2007, Dr. Gaidon has been working on Principle-centric ML: learning algori
 
 Besides scientific expertise, Dr. Gaidon has experience in building and leading world-class teams of ML researchers and engineers that work together to invent and develop new solutions to hard real-world problems like safe and automated driving.
 
-More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin profile](https://www.linkedin.com/in/adrien-gaidon-63ab2358/), publications on [Google Scholar](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en) or [arxiv](ttps://arxiv.org/search/cs?searchtype=author&query=Gaidon%2C+A).
+More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.com/in/adrien-gaidon-63ab2358/), [Google Scholar](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en), [arxiv](ttps://arxiv.org/search/cs?searchtype=author&query=Gaidon%2C+A).
 
 
 ## News
