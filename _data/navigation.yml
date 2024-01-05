@@ -1,12 +1,10 @@
 # main links links
 # TODO add back "Blogs" /year-archive
-main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "CV"
+#    url: /cv/
+#  - title: "Publications"
+#    url: /publications/
 
+main:
   - title: "Talks"
     url: /talks/
-
-  - title: "CV"
-    url: /cv/
-

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adrien Gaidon's website"
 title_separator          : "-"
 name                     : &name "Adrien Gaidon"
-description              : &description "Adrien Gaidon's website. Machine Learning Research. Autonomous Driving."
+description              : &description "Adrien Gaidon's website."
 # recommended to uncomment below for custom domain: https://github.community/t/css-not-being-applied-in-pages/10466/9
 #url                      : https://www.adriengaidon.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Adrien Gaidon"
   avatar           : "adrien-gaidon.jpg"
-  bio              : "Director of Machine Learning at TRI (Toyota Research Institute) and Adjunct Professor at Stanford."
-  location         : "Los Altos, CA, USA"
+  bio              : "Experienced Machine Learning executive. Adjunct Professor at Stanford."
+  location         : "Silicon Valley, CA, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AdrienGaidon-TRI"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -178,10 +178,10 @@ kramdown:
 # Collections
 collections:
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
