@@ -49,4 +49,4 @@ These responsibilities are synergistic with my Partner role at Calibrate Venture
 
 Will we see a wide variety of deep tech applications of AI in the real world soon? If so, which ones excite you? If not, is it because it is premature and thus much more research is needed, or is it because we will have a single winner-take-all EGI (Embodied General Intelligence)?
 
-Let me know what you think on [Twitter](https://twitter.com/adnothing) and [LinkedIn](https://www.linkedin.com/in/adrien-gaidon-63ab2358/).
+Let me know what you think on [Twitter](https://twitter.com/adnothing/status/1763242339898962268) and [LinkedIn](https://www.linkedin.com/posts/adrien-gaidon-63ab2358_big-personal-news-after-7-wonderful-years-activity-7169007825376014336-bGq5).
