@@ -4,10 +4,10 @@
 #    url: /cv/
 #  - title: "Publications"
 #    url: /publications/
+#
+#  - title: "Blog Posts"
+#     url: /year-archive/
 
 main:
   - title: "Talks"
     url: /talks/
-
-  - title: "Blog Posts"
-     url: /year-archive/
