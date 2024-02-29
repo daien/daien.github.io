@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Adrien Gaidon is an experienced Machine Learning researcher, engineer, manager, executive, technical advisor, and Adjunct Professor of Computer Science at Stanford.
+Dr. Adrien Gaidon is an experienced Machine Learning researcher, engineer, manager, executive, and investor. He is a Partner at [Calibrate Ventures](https://www.calibratevc.com/), an Adjunct Professor of Computer Science at Stanford, and a technical advisor and former head of ML at [TRI](https://www.tri.global/).
 
 Since 2007, Dr. Gaidon has been working on Principle-centric ML: learning algorithms that effectively combine concise prior knowledge and large-scale data. In particular, Dr. Gaidon has a deep expertise in Embodied Intelligence, including Computer Vision, Autonomous Driving, and Robotics, with more than 100 patents and 100 publications at top AI venues like CVPR and NeurIPS.
 
@@ -19,6 +19,7 @@ More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.co
 
 ## News
 
+- February 2024: **Big personal news**: after 7 wonderful years leading ML at TRI, I'm thrilled to be joining the early-stage deep tech VC firm **[Calibrate Ventures](https://www.calibratevc.com/)** as a Partner to invest in the explosion of Embodied Intelligence startups! If you are curious about why and how, then check out my [personal blog post](https://adriengaidon.com/posts/2024/02/calibrate/) and the [Calibrate announcement](https://www.calibratevc.com/blog/calibrate-ventures-welcomes-adrien-gaidon-as-partner).
 - July 2023: [Robust Self-Supervised Extrinsic Self-Calibration](https://sites.google.com/view/tri-sesc) accepted at **IROS'23**, and 3 papers accepted at [**ICCV'23**](https://iccv2023.thecvf.com/): [ZeroDepth](https://sites.google.com/view/tri-zerodepth) (scale-aware monocular depth that generalizes zero-shot across domains, including indoors and outdoors!), [DeLiRa](https://sites.google.com/view/tri-delira) (self-supervised depth, light, and radiance fields), and [NeO 360](https://zubair-irshad.github.io/projects/neo360.html) (outdoor NeRFs from sparse views).
 - June 2023: we received the **best paper award at [L4DC'23](https://l4dc.seas.upenn.edu/)** for [iDBF: Self-Supervised Policy Filters that Avoid Out-of-Distribution States](https://arxiv.org/abs/2301.12012)! Congrats Fernando and Haruki!
 - May 2023: 3 papers published at **CVPR'23**: [a new 3D detector using view-point equivariance (VEDet)](https://arxiv.org/abs/2303.14548), [a new video object segmentation benchmark (VOST)](https://arxiv.org/abs/2212.06200), [a new video model for object discovery from motion-guided tokens (MoTok)](https://arxiv.org/abs/2303.15555), and more from the team as mentioned in our [TRI @ CVPR 2023 blog](https://medium.com/toyotaresearch/tri-at-cvpr-2023-666c78cb4330).
