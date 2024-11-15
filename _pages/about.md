@@ -8,22 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Adrien Gaidon is an experienced Machine Learning researcher, engineer, manager, executive, and investor. He is a Partner at [Calibrate Ventures](https://www.calibratevc.com/), an Adjunct Professor of Computer Science at Stanford, and a technical advisor and former head of ML at [TRI](https://www.tri.global/).
+Dr. Adrien Gaidon is an experienced Machine Learning researcher, engineer, manager, executive, advisor, and investor. He is a Partner at [Calibrate Ventures](https://www.calibratevc.com/), an Adjunct Professor of Computer Science at Stanford, and a technical advisor and former head of ML at [TRI](https://www.tri.global/).
 
 Since 2007, Dr. Gaidon has been working on Principle-centric ML: learning algorithms that effectively combine concise prior knowledge and large-scale data. In particular, Dr. Gaidon has a deep expertise in Embodied Intelligence, including Computer Vision, Autonomous Driving, and Robotics, with more than 100 patents and 100 publications at top AI venues like CVPR and NeurIPS.
 
 Besides scientific expertise, Dr. Gaidon has experience in building and leading world-class teams of ML researchers and engineers that work together to invent and develop new solutions to hard real-world problems like safe and automated driving.
 
-More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.com/in/adrien-gaidon-63ab2358/), [Google Scholar](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en), [arxiv](https://arxiv.org/search/cs?searchtype=author&query=Gaidon%2C+A).
+More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.com/in/adrien-gaidon-63ab2358/), [Google Scholar](https://scholar.google.com/citations?user=2StUgf4AAAAJ&hl=en), [DBLP](https://dblp.org/pid/06/7548.html), [arxiv](https://arxiv.org/search/cs?searchtype=author&query=Gaidon%2C+A).
 
 
 ## News
 
+- End of 2024: early-stage investments in some amazing deep tech startups that we made at [Calibrate Ventures](https://www.calibratevc.com/) (more news soon!).
+- December 2024: presenting [Streaming Detection of Queried Event Start](https://neurips.cc/virtual/2024/poster/97778) at [NeurIPS'24](https://neurips.cc/) with Cristobal Eyzaguirre and Stanford colleagues.
+- October 2024: presenting [Linearizing Large Language Models
+](https://arxiv.org/abs/2405.06640) at [CoLM'24](https://colmweb.org/) (a little bit of the whole lot of LLM work that happened behind the scenes at TRI!)
+- September 2024: two papers leveraging MAE (Masked Auto-Encoders) for 3D vision presented at **ECCV'24**: [NeRF-MAE](https://nerf-mae.github.io/) and [OctMAE](https://sh8.io/#/oct_mae).
+- July 2024: if you want to learn about the intersection of CV for robotics and VC, I gave an unusual talk at the excellent [ICRA'24 RoboNeRF workshop](https://robonerf.github.io/2024/) titled "[Robot Ventures in Neural Fields](https://www.youtube.com/watch?v=jyEZtbXs3fg)".
+- June 2024: [VTCD: Understanding Video Transformers via Universal Concept Discovery](https://yorkucvil.github.io/VTCD/) presented at **CVPR'24** (as a highlight!).
+- June 2024: [ReFiNe: Recursive Field Networks for Cross-Modal Multi-Scene Representation](https://zakharos.github.io/projects/refine/) presented at **SIGGRAPH'24**.
 - February 2024: **Big personal news**: after 7 wonderful years leading ML at TRI, I'm thrilled to be joining the early-stage deep tech VC firm **[Calibrate Ventures](https://www.calibratevc.com/)** as a Partner to invest in the explosion of Embodied Intelligence startups! If you are curious about why and how, then check out my [personal blog post](https://adriengaidon.com/posts/2024/02/calibrate/) and the [Calibrate announcement](https://www.calibratevc.com/blog/calibrate-ventures-welcomes-adrien-gaidon-as-partner).
+
+### 2023 Updates
+
 - July 2023: [Robust Self-Supervised Extrinsic Self-Calibration](https://sites.google.com/view/tri-sesc) accepted at **IROS'23**, and 3 papers accepted at [**ICCV'23**](https://iccv2023.thecvf.com/): [ZeroDepth](https://sites.google.com/view/tri-zerodepth) (scale-aware monocular depth that generalizes zero-shot across domains, including indoors and outdoors!), [DeLiRa](https://sites.google.com/view/tri-delira) (self-supervised depth, light, and radiance fields), and [NeO 360](https://zubair-irshad.github.io/projects/neo360.html) (outdoor NeRFs from sparse views).
 - June 2023: we received the **best paper award at [L4DC'23](https://l4dc.seas.upenn.edu/)** for [iDBF: Self-Supervised Policy Filters that Avoid Out-of-Distribution States](https://arxiv.org/abs/2301.12012)! Congrats Fernando and Haruki!
 - May 2023: 3 papers published at **CVPR'23**: [a new 3D detector using view-point equivariance (VEDet)](https://arxiv.org/abs/2303.14548), [a new video object segmentation benchmark (VOST)](https://arxiv.org/abs/2212.06200), [a new video model for object discovery from motion-guided tokens (MoTok)](https://arxiv.org/abs/2303.15555), and more from the team as mentioned in our [TRI @ CVPR 2023 blog](https://medium.com/toyotaresearch/tri-at-cvpr-2023-666c78cb4330).
-- January 2023: [Neural Groundplans](https://prafullsharma.net/see3d/) published at **ICLR'23**, [Depth Is All You Need for 3D Detection](https://arxiv.org/abs/2210.02493) at **ICRA'23**, and [Active Sampling to reduce Causal Confusion](https://openreview.net/forum?id=IaaRcteVzuc) at the NeurIPS'23 [CML4Impact workshop](https://www.cml-4-impact.vanderschaar-lab.com/).
+- January 2023: [Neural Groundplans](https://prafullsharma.net/see3d/) published at **ICLR'23**, [Depth Is All You Need for 3D Detection](https://arxiv.org/abs/2210.02493) at **ICRA'23**, and [Active Sampling to reduce Causal Confusion](https://proceedings.mlr.press/v213/gupta23a.html) at [CLEAR'23](https://www.cclear.cc/2023) and the NeurIPS'23 [CML4Impact workshop](https://www.cml-4-impact.vanderschaar-lab.com/).
 
 ### 2022 Updates
 
