@@ -20,9 +20,9 @@ More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.co
 ## News
 
 - End of 2024: early-stage investments in some amazing deep tech startups that we made at [Calibrate Ventures](https://www.calibratevc.com/) (more news soon!).
-- December 2024: presenting [Streaming Detection of Queried Event Start](https://neurips.cc/virtual/2024/poster/97778) at [NeurIPS'24](https://neurips.cc/) with Cristobal Eyzaguirre and Stanford colleagues.
+- December 2024: presenting [Streaming Detection of Queried Event Start](https://neurips.cc/virtual/2024/poster/97778) at **NeurIPS'24** with Cristobal Eyzaguirre and Stanford colleagues.
 - October 2024: presenting [Linearizing Large Language Models
-](https://arxiv.org/abs/2405.06640) at [CoLM'24](https://colmweb.org/) (a little bit of the whole lot of LLM work that happened behind the scenes at TRI!)
+](https://arxiv.org/abs/2405.06640) at **CoLM'24** (a little bit of the whole lot of LLM work that happened behind the scenes at TRI!)
 - September 2024: two papers leveraging MAE (Masked Auto-Encoders) for 3D vision presented at **ECCV'24**: [NeRF-MAE](https://nerf-mae.github.io/) and [OctMAE](https://sh8.io/#/oct_mae).
 - July 2024: if you want to learn about the intersection of CV for robotics and VC, I gave an unusual talk at the excellent [ICRA'24 RoboNeRF workshop](https://robonerf.github.io/2024/) titled "[Robot Ventures in Neural Fields](https://www.youtube.com/watch?v=jyEZtbXs3fg)".
 - June 2024: [VTCD: Understanding Video Transformers via Universal Concept Discovery](https://yorkucvil.github.io/VTCD/) presented at **CVPR'24** (as a highlight!).
