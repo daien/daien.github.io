@@ -12,7 +12,7 @@ The main points Brad made at the time were about:
 
 1) how do we know we are approaching AGI ("the more convoluted the arguments distinguishing machine from human intelligence become, the closer we actually are to artificial general intelligence"),
 
-2) who gets to say if we need to worry or not (more than just AI luminaries, which was echoed recently as "let's stop deferring to insiders" in this [excellent "AI snake oil" blog](https://www.aisnakeoil.com/p/is-ai-progress-slowing-down) by hype sharpshooter Arvind Narayanan),
+2) who gets to say if we need to worry or not (more than just AI luminaries, which was echoed recently as "let's stop deferring to insiders" in this [excellent "AI snake oil" blog](https://www.aisnakeoil.com/p/is-ai-progress-slowing-down) by Arvind Narayanan),
 
 3) an AI Safety framework based on ethical considerations of ever more capable AIs.
 
