@@ -9,14 +9,19 @@ tags:
 The amazing results of [OpenAI's o3 system](https://community.openai.com/t/day-12-of-shipmas-new-frontier-models-o3-and-o3-mini-announcement/1061818) got everybody to reassess their predictions about the future, again. [Brad Porter](https://www.linkedin.com/in/brad-porter-1a989/) (CEO of [CoBot](https://www.co.bot/), one of our portfolio companies at [Calibrate Ventures](https://www.calibratevc.com/)) reposted his excellent essay ["Approaching the AGI Asymptote"](https://medium.com/@bp_64302/approaching-the-agi-asymptote-5f1737a0033f) and re-analyzed his conclusions in this [linkedin post](https://www.linkedin.com/posts/brad-porter-1a989_approaching-the-agi-asymptote-activity-7276619030092783616-tm8L/).
 
 The main points Brad made at the time were about:
+
 1) how do we know we are approaching AGI ("the more convoluted the arguments distinguishing machine from human intelligence become, the closer we actually are to artificial general intelligence"),
+
 2) who gets to say if we need to worry or not (more than just AI luminaries, which was echoed recently as "let's stop deferring to insiders" in this [excellent "AI snake oil" blog](https://www.aisnakeoil.com/p/is-ai-progress-slowing-down) by hype sharpshooter Arvind Narayanan),
+
 3) an AI Safety framework based on ethical considerations of ever more capable AIs.
 
 Brad re-analyzed his thinking and largely stood by it, with some caveats and questions that got me to write some of my updated thoughts on AI safety.
 
 In a nutshell:
+
 1) progress cannot and should not be stopped, but we need to be extra careful,
+
 2) to do so, and based on my personal experience in autonomous driving and robotics, **we should be wary of anthropomorphism (the ELIZA effect) to focus more on an engineering approach to AI safety while emphasizing human responsibility, especially as AI systems escape our understanding (Bonini's paradox)**.
 
 So who is ELIZA Bonini and what does it have to do with turtles?
