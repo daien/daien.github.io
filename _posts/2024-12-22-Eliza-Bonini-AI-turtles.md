@@ -6,7 +6,8 @@ tags:
   - misc
 ---
 
-**TL;DR: ML reasoning systems are going through an exciting phase transition escaping our understanding; this requires an engineering approach to AI safety while emphasizing human accountability to avoid the pitfalls of AI anthropomorphization**
+**TL;DR: ML reasoning systems are going through an exciting phase transition that escapes our understanding; we neither can nor want to stop it, but this requires an AI Safety approach similar to autonomous driving (engineering + human accountability) to avoid the pitfalls of AI anthropomorphization.**
+
 
 The amazing results of [OpenAI's o3 system](https://community.openai.com/t/day-12-of-shipmas-new-frontier-models-o3-and-o3-mini-announcement/1061818) got everybody to reassess their predictions about the future, again. [Brad Porter](https://www.linkedin.com/in/brad-porter-1a989/) (CEO of [CoBot](https://www.co.bot/), one of our portfolio companies at [Calibrate Ventures](https://www.calibratevc.com/)) reposted his excellent essay ["Approaching the AGI Asymptote"](https://medium.com/@bp_64302/approaching-the-agi-asymptote-5f1737a0033f) and re-analyzed his conclusions in this [linkedin post](https://www.linkedin.com/posts/brad-porter-1a989_approaching-the-agi-asymptote-activity-7276619030092783616-tm8L/).
 
