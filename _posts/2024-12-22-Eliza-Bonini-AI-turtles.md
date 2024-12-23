@@ -81,7 +81,7 @@ What makes safety engineering extra hard is that **using the same tools as the b
 
 ![Deliberative Alignment](/images/deliberative-alignment.jpg "Deliberative Alignment from https://openai.com/index/deliberative-alignment/")
 
-What happens if the CoTs correspond to abstract and complex reasoning that is effective but hard for us to understand (Bonini's paradox)? What if o3 (or o4, o5...) finds a new way to build nuclear fusion reactors with CoTs beyond our current understanding of physics? We can't just rely on ELIZA Bonini's vibes and high-level explanations to dumb things down to our level. We can't also "just build it and see" (that approach does not scale well with risk).
+What happens if the CoTs correspond to abstract and complex reasoning that is effective but hard for us to understand (Bonini's paradox)? What if o3 (or o4, o5...) finds a new way to build nuclear fusion reactors with CoTs beyond our current understanding of physics? We can't just rely on ELIZA Bonini's vibes and high-level explanations to dumb things down to our level. We can't also "just build it and see" (that approach does not scale well with risk, cf. the previous industrial revolution and climate change).
 
 This shows the core of the issue: **the ratio of tester-to-trainer abilities must grow superlinearly** due to the current "Field of Dreams" approach to testing ("just build it, testers will come") and the fundamental asymmetry of the costs: failing to build a better system is ok, failing to gate a catastrophically bad release is not. Testers must anticipate and move to where the puck is going, not where it stands.
 
