@@ -42,9 +42,7 @@ At a technical level, Bonini's paradox is becoming a central concept in LLMs now
 
 Hence, we are increasingly **leveraging AI to evaluate itself** (cf. LLMs as judge and other techniques mentioned in the aforementioned o3 announcement video). Note that such a recursive use of AI is common for training (that was actually [one of my first papers](https://inria.hal.science/inria-00440973/), a common autonomous driving industry practice in uncertainty-based active learning, and a big part of modern pseudo-labeling techniques as scaled up in Meta's [SAM-2 approach](https://ai.meta.com/sam2/)), but it is a recent focus for testing, out of necessity.
 
-Thus, **these modern ML reasoning systems escape our understanding**. [In the words of Ilya "Bonini" Sutskever himself](https://www.reuters.com/technology/artificial-intelligence/ai-with-reasoning-power-will-be-less-predictable-ilya-sutskever-says-2024-12-14/): "The more it reasons, the more unpredictable it becomes." To me, "it" refers to both parts of the system (models, training, and now testing) and the system as a whole.
-
-That's just a fact, and the cat is out of the bag. I don't think we can put it back, nor do I personally want to (yes, I'm a cat person). It's just too useful and exciting!
+[In the words of Ilya "Bonini" Sutskever himself](https://www.reuters.com/technology/artificial-intelligence/ai-with-reasoning-power-will-be-less-predictable-ilya-sutskever-says-2024-12-14/): "The more it reasons, the more unpredictable it becomes." To me, "it" refers to both parts of the system (models, training, and now testing) and the system as a whole. Thus, **modern ML reasoning systems escape our understanding**. That's just a fact, and the cat is out of the bag. I don't think we can put it back, nor do I personally want to (yes, I'm a cat person). It's just too useful and exciting!
 
 So how are we going to mitigate the risks of ever-more capable, and hence inscrutable, AI? What are even the risks?
 
