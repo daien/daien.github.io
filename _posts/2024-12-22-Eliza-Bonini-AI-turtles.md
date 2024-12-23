@@ -115,7 +115,7 @@ What about the argument that this might stifle progress? Not slowing down progre
 
 Finally, **more rigorous safety engineering and accountability might actually be important not just to *survive* but to *win* in the long term**, as evidenced by the state of the autonomous vehicle industry. The best AV companies are indeed the ones that hired and empowered Functional Safety experts and publicly and transparently committed to safety engineering with a high degree of accountability. Considering the success of this approach in AVs, especially Waymo's, the industry leader in both commercial deployment *and* safety (cf. [Waymo's thorough approach to safety](https://waymo.com/safety/)), I hope to see more of that in AI broadly, both in terms of implementation, public discourse, and accountability.
 
-What do you think? Please let me know on [twitter]() or [linkedin]().
+What do you think? Please let me know on [twitter](https://x.com/adnothing/status/1871238710970499102) or [linkedin](https://www.linkedin.com/posts/adrien-gaidon-63ab2358_eliza-bonini-and-the-ai-turtles-activity-7277004469941219332-Katd).
 And remember, it’s not turtles (or AIs) all the way down: ultimately, there is always a human at the wheel.
 
 ![The human at the wheel of the truck barreling towards AGI](/images/AGI-wheel-dall-e.jpeg "The human at the wheel of the truck barreling towards AGI.")
