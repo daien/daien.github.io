@@ -3,7 +3,15 @@ layout: archive
 title: "Selected Talks"
 permalink: /talks/
 author_profile: true
-date: 2022-06-10
+date: 2024-12-22
+icra24:
+  - image_path: ICRA2024-neural-fields.jpg
+    alt: "Robot Ventures in Neural Fields"
+    title: "Robot Ventures in Neural Fieldse, ICRA, May, 2024"
+    excerpt: 'Why YOU should build (or join) an Embodied AI startup. Invited talk at the ICRA 2024 RoboNeRF workshop'
+    btn_label: "Youtube"
+    btn_class: "btn--primary"
+    url: "https://youtu.be/jyEZtbXs3fg?si=w8atWZqDl_W__hyD&t=12647"
 twimlai22:
   - image_path: TWIMLAI-Adrien-Gaidon-Principle-centric-AI.jpeg
     alt: "Principle-centric AI"
@@ -16,7 +24,7 @@ icra22:
   - image_path: ICRA2022-Principle-centric-AI-for-Embodied-Intelligence.png
     alt: "Principle-centric AI for Embodied Intelligence"
     title: "Principle-centric AI for Embodied Intelligence, ICRA, May, 2022"
-    excerpt: 'Why principles might help taking ML to the next level for embodied platforms and how we have successfully used them so far. Invited talk at the ICRA 2022 work on "Fresh Perspectives for Autonomous Driving"'
+    excerpt: 'Why principles might help taking ML to the next level for embodied platforms and how we have successfully used them so far. Invited talk at the ICRA 2022 workshop on "Fresh Perspectives for Autonomous Driving"'
     btn_label: "Youtube"
     btn_class: "btn--primary"
     url: "https://www.youtube.com/watch?v=qzo61V7G1EM&t=8312s"
