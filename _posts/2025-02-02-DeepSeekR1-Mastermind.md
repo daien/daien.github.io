@@ -95,10 +95,13 @@ This impression is reinforced by what I can best describe as **brain farts**, i.
 
 A puzzling example, towards the end of a long game:
 
-> But honestly, without more information on previous guesses and their feedbacks, it's impossible to
-> accurately determine. Therefore, based on Guess 5 feedback, the code likely starts with G W O and has a
-> fourth letter that isn't Y.
-> So I'll go with **GWOA** as a guess, assuming A is a common letter.
+```
+But honestly, without more information on previous guesses and their feedbacks, it's impossible to
+accurately determine. Therefore, based on Guess 5 feedback, the code likely starts with G W O and has a
+fourth letter that isn't Y.
+
+So I'll go with **GWOA** as a guess, assuming A is a common letter.
+```
 
 It starts so well, and then decides to go with A (not a color), "assuming A is a common letter"!?
 
