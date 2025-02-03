@@ -26,7 +26,10 @@ I was curious about R1’s chain-of-thought (CoT), which it exposes (unlike othe
 
 ```xml
 <purpose>
-  Mastermind is a code-breaking game where I generate a secret sequence of colors, and you (the AI) attempt to guess it. The objective for you is to deduce the correct sequence in as few guesses as possible by receiving feedback after each guess. Feedback indicates the total number of colors that are exactly correct (right color, right position) and the total number of colors that are correct in color but in the wrong position. The game is won when you correctly guess the entire sequence.
+  Mastermind is a code-breaking game where I generate a secret sequence of colors, and you (the AI) attempt to guess it.
+  The objective for you is to deduce the correct sequence in as few guesses as possible by receiving feedback after each guess.
+  Feedback indicates the total number of colors that are exactly correct (right color, right position) and the total number of colors that are correct in color but in the wrong position.
+  The game is won when you correctly guess the entire sequence.
 </purpose>
 
 <planning_rules>
