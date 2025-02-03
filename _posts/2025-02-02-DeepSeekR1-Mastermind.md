@@ -236,4 +236,4 @@ Overall, despite its lackluster Mastermind performance, DeepSeek-R1's chain-of-t
 
 It also highlighted the gap between intelligence and autonomy and the need for a human in the loop, even with a clear operational domain like Mastermind. That's why there is still a lot of work to do to get to the grand vision of AI Agents, to get data from prediction to action, but we are making visible and fast progress!
 
-If you are a founder building a product that can overcome or cleverly hack these reasoning and agentic challenges, or if you can disprove my very subjective conclusions with concrete evidence, then please reach out!
+If you are a founder building a product that can overcome or cleverly hack these reasoning and agentic challenges with a clear path to market, or if you can disprove my very subjective conclusions with concrete evidence, then please reach out!
