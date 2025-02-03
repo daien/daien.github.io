@@ -125,7 +125,7 @@ This was a surprise to me. Not just how I felt reading these long CoTs, but more
 
 This is obvious for models that are learned by imitation (tons of SFT / RLHF), but it was a surprise for an RL-trained model like R1. I guess the DeepSeek-v3 base model was so strong (the leading hypothesis for why RL worked this time) that the multi-stage training of R1 made it stay close to its human-like training data while learning better reasoning skills.
 
-The accurate multi-step reasoning parts of R1's output is when the Eliza effect was the strongest for me, and I caught myself feeling impressed or cheering it on (I could read the generation in realtime due to the inference speed on my mac). It is great for "pair programming" with these models, but it creates a strong bias for eval (opposite to the actual performance).
+The accurate multi-step reasoning parts of R1's output is when the [Eliza effect](https://en.wikipedia.org/wiki/ELIZA_effect) was the strongest for me, and I caught myself feeling impressed or cheering it on (I could read the generation in realtime due to the inference speed on my mac). It is great for "pair programming" with these models, but it creates a strong bias for eval (opposite to the actual performance).
 
 This anthropomorphic bias is why vibes are a double-edged sword, as I wrote about recently when talking about [Eliza Bonini and the AI turtles](https://adriengaidon.com/posts/2024/12/eliza/).
 
