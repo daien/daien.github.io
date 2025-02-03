@@ -128,7 +128,7 @@ Which brings me to the good parts, and why this experiment is another useful dat
 
 As many reported, **R1 can indeed catch some logical errors via self-reflection** ("but wait" as a backtracking trigger) and **consistency / coherence of its own thought process**.
 
-Some examples:
+A cool example:
 
 ```
 But wait, from GYOW having three correct but misplaced, W might not be part of the code. Maybe I should
@@ -161,7 +161,6 @@ Surprisingly, **the reasoning is often relatable and cute**:
 But I'm not sure how to interpret this since the feedback is unordered. It's confusing because an "M"
 doesn't tell me which position is correct, just that there's at least one exact match somewhere.
 ```
-
 
 ```
 Wait, I'm getting confused. Maybe I should try another combination.
