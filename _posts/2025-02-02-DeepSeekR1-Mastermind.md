@@ -131,16 +131,6 @@ As many reported, **R1 can indeed catch some logical errors via self-reflection*
 Some examples:
 
 ```
-Given the complexity of overlapping information from multiple guesses, it's crucial to systematically test
-each potential color position based on feedback patterns to narrow down the correct combination.
-```
-
-```
-So I think my best bet is to go with YGBR as the first guess because it gives me a good spread and each
-color is unique, making it easier to interpret the feedback.
-```
-
-```
 But wait, from GYOW having three correct but misplaced, W might not be part of the code. Maybe I should
 exclude W.
 
