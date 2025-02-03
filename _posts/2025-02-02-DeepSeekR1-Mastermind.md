@@ -93,7 +93,7 @@ Overall, **R1 clearly lacks a consistent process / method / strategy**, as it se
 
 This impression is reinforced by what I can best describe as **brain farts**, i.e. obvious logical errors out of nowhere. For instance, R1 often jumped the gun and concluded a peg is for sure at a position while the evidence it was enumerating just before was clearly not enough to say that.
 
-Another really puzzling example, towards the end of a long game:
+A puzzling example, towards the end of a long game:
 
 ```
 But honestly, without more information on previous guesses and their feedbacks, it's impossible to
