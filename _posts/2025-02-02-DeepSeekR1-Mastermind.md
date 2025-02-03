@@ -223,7 +223,7 @@ could apply to any of the positions in my guess. That means I need to reinterpre
 adjust my guesses.
 ```
 
-This illustrates the final and possibly most important point: **Large Reasoning Models are great with a human in the loop, but not ready for full autonomy**. The current models are "super good enough" to amplify us (humans) or for us to (scalably) manage them in a semi-autonomous system (e.g., OpenAI's Operator), but we are not yet at "push a button and take a nap while my LLM is doing my job".
+This illustrates the final and possibly most important point: **Large Reasoning Models are great with a human in the loop, but not ready for full autonomy**. The current models are might be good enough to amplify us (humans) or for us to (scalably) manage them in a semi-autonomous system (e.g., OpenAI's Operator) *for certain tasks and certain contexts* (the hunt for those killer apps is on!), but we are not yet at "push a button and take a nap while my LLM is doing my job".
 
 **Designing agentic systems to make human-LLM interactions delightful, frictionless, predictable, and infrequent (thus scalable) is key to any product that wants to build on this technology today.**
 
