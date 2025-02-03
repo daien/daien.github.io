@@ -20,7 +20,7 @@ I was curious about R1’s chain-of-thought (CoT), which it exposes (unlike othe
 
 # Mastermind Experimental Setup
 
-- I used [DeepSeek-R1-32b](https://ollama.com/library/deepseek-r1:32b) (the QWen2-32B distilled variant of R1) using [ollama](https://ollama.com/) on my MBP (`ollama run deepseek-r1:32b`).
+- I used [DeepSeek-R1-32b](https://ollama.com/library/deepseek-r1:32b) (the Qwen2-32B distilled variant of R1) using [ollama](https://ollama.com/) on my MBP (`ollama run deepseek-r1:32b`).
 - I have an ancient Mastermind mini game, so I followed the rules of this version, which I explicitly described in the prompt (there are different variants of the game, so I described my version precisely).
 - I use the popular [PPFO prompting template](https://x.com/cj_zZZz/status/1882829210550681861) for R1; my prompt is here:
 
