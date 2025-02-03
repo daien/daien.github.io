@@ -1,6 +1,6 @@
 ---
 title: 'LLM and reasoning games: Is DeepSeek-R1 Good at Mastermind?'
-date: 2024-12-22
+date: 2025-02-02
 permalink: /posts/2025/02/deepseekr1-mastermind/
 tags:
   - misc
