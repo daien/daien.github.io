@@ -19,6 +19,7 @@ More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.co
 
 ## News
 
+- February 2025: Large Reasoning Models are hailed as the technical breakthrough that will fuel the AI Agents revolution; how do we evaluate the validity of those claims? Reasoning games might be a good benchmark, so I did a little experiment to figure it out: [Is DeepSeek-R1 Good at Mastermind?](https://adriengaidon.com/posts/2025/02/deepseekr1-mastermind/)
 - December 2024: following OpenAI o3's amazing results, I wrote my thoughts about emphasizing AI Safety as an *engineering discipline* to avoid the pitfalls of [ELIZA Bonini and the AI turtles](https://adriengaidon.com/posts/2024/12/eliza/).
 - December 2024: early-stage investments in some amazing deep tech startups that we made at Calibrate Ventures: check out our [end of year post](https://www.calibratevc.com/blog/2024-at-calibrate-ventures-our-year-in-review)!
 - December 2024: presenting [Streaming Detection of Queried Event Start](https://neurips.cc/virtual/2024/poster/97778) at **NeurIPS'24** with Cristobal Eyzaguirre and Stanford colleagues.
