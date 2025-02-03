@@ -20,8 +20,8 @@ I was curious about R1’s chain-of-thought (CoT), which it exposes (unlike othe
 
 # Mastermind Experimental Setup
 
-- I run R1-32b using [ollama](https://ollama.com/) on my M3-Max MBP (`ollama run deepseek-r1:32b`)
-- I have an old Mastermind mini game, so I followed the rules of this version, which I explicitly described in the prompt.
+- I used [DeepSeek-R1-32b](https://ollama.com/library/deepseek-r1:32b) (the QWen2-32B distilled variant of R1) using [ollama](https://ollama.com/) on my MBP (`ollama run deepseek-r1:32b`).
+- I have an ancient Mastermind mini game, so I followed the rules of this version, which I explicitly described in the prompt (there are different variants of the game, so I described my version precisely).
 - I use the popular [PPFO prompting template](https://x.com/cj_zZZz/status/1882829210550681861) for R1; my prompt is here:
 
 ```xml
@@ -93,7 +93,19 @@ Overall, **R1 clearly lacks a consistent process / method / strategy**, as it se
 
 This impression is reinforced by what I can best describe as **brain farts**, i.e. obvious logical errors out of nowhere. For instance, R1 often jumped the gun and concluded a peg is for sure at a position while the evidence it was enumerating just before was clearly not enough to say that.
 
-This lack of consistent higher level reasoning patterns combined with these brain farts make it hard to pin down exactly what type of "reasoning" (or the absence thereof) is learned by this statistical language model.
+Another really puzzling example, towards the end of a long game:
+
+```
+But honestly, without more information on previous guesses and their feedbacks, it's impossible to
+accurately determine. Therefore, based on Guess 5 feedback, the code likely starts with G W O and has a
+fourth letter that isn't Y.
+
+So I'll go with **GWOA** as a guess, assuming A is a common letter.
+```
+
+It starts so well, and then decides to go with A (not a color), "assuming A is a common letter"!?
+
+The lack of consistent higher level reasoning patterns combined with these brain farts make it hard to pin down exactly what type of "reasoning" (or the absence thereof) is learned by this statistical language model.
 
 
 ### R1 exhibits the classic failure modes of LLMs
@@ -114,14 +126,58 @@ Which brings me to the good parts, and why this experiment is another useful dat
 
 ### The emergence of reasoning skills is real
 
-As many reported, **R1 can indeed catch some logical errors via self-reflection** ("but wait" as a backtracking trigger) and **consistency / coherence of its own thought process**. Together with the (oft misinterpreted) training costs, these skills are the source of the hype around DeepSeek-R1 and discussed at length in the thorough (and rare) [DeepSeek-R1 research report](https://arxiv.org/abs/2501.12948) from the DeepSeek team, so go read that if you haven't already. As mentioned in the previous section, it's not perfect, but it's undeniably there and compelling.
+As many reported, **R1 can indeed catch some logical errors via self-reflection** ("but wait" as a backtracking trigger) and **consistency / coherence of its own thought process**.
+
+Some examples:
+
+```
+Given the complexity of overlapping information from multiple guesses, it's crucial to systematically test
+each potential color position based on feedback patterns to narrow down the correct combination.
+```
+
+```
+So I think my best bet is to go with YGBR as the first guess because it gives me a good spread and each
+color is unique, making it easier to interpret the feedback.
+```
+
+```
+But wait, from GYOW having three correct but misplaced, W might not be part of the code. Maybe I should
+exclude W.
+
+Alternatively, if W is incorrect, then from GYOW, maybe G, Y, and O are correct but misplaced.
+
+So perhaps try arranging them differently:
+
+Guess 4: WGOY
+
+But that feels random. Maybe I need to keep some colors fixed based on previous feedback.
+
+This is really challenging without knowing which position is correct. I think I need a more systematic way
+to approach this.
+
+Maybe list out all possible positions for each color based on feedback and see where they can fit.
+```
+
+Together with the (oft misinterpreted) training costs, these skills are the source of the hype around DeepSeek-R1 and discussed at length in the thorough (and rare) [DeepSeek-R1 research report](https://arxiv.org/abs/2501.12948) from the DeepSeek team, so go read that if you haven't already.
+
+As mentioned in the previous section, it's far from perfect, but it's undeniably there and compelling.
 
 
 ### The vibes / how R1 feels: a productivity hack?
 
-Surprisingly, **the reasoning is often relatable and cute** (e.g., "This is getting complicated."), except when an occasional brain fart happens.
+Surprisingly, **the reasoning is often relatable and cute**:
 
-This was a surprise to me. Not just how I felt reading these long CoTs, but more the fact that it actually helped with debugging / cooperating. **Anthropomorphization continues to be a powerful technique for AI Engineering.**
+```
+But I'm not sure how to interpret this since the feedback is unordered. It's confusing because an "M"
+doesn't tell me which position is correct, just that there's at least one exact match somewhere.
+```
+
+
+```
+Wait, I'm getting confused. Maybe I should try another combination.
+```
+
+This was a surprise to me. Not just how I felt reading the long CoTs, but more the fact that it actually helped with debugging / cooperating. **Anthropomorphization continues to be a powerful technique for AI Engineering.**
 
 This is obvious for models that are learned by imitation (tons of SFT / RLHF), but it was a surprise for an RL-trained model like R1. I guess the DeepSeek-v3 base model was so strong (the leading hypothesis for why RL worked this time) that the multi-stage training of R1 made it stay close to its human-like training data while learning better reasoning skills.
 
@@ -133,6 +189,10 @@ This anthropomorphic bias is why vibes are a double-edged sword, as I wrote abou
 ### Semantic Representation of Uncertainty
 
 Beyond self-reflection and consistency, another encouraging pattern in the CoT is its **semantic representation of uncertainty** ("I'm not sure", "maybe"). It clearly saved R1 a bunch of times when it was going in a wrong direction.
+
+```
+This seems plausible, but I'm not sure. Maybe I should try OWGY as my next guess to see if it works.
+```
 
 It is interesting to think about this in the context of calibration of probabilities, sampling, and other important technical aspects of robust probabilistic modeling. As all roboticists know, **uncertainty modeling is key for robust control in closed-loop systems.**
 
@@ -151,6 +211,28 @@ Beyond good systems engineering (separation of concerns, specification, verifica
 ### The best kept secret of autonomy: the human in the loop
 
 Another benefit of reasoning traces is that it enables the end user to give high-level corrective feedback when the answer is wrong based on a misunderstanding due to ambiguity (e.g., a loose application of the rules). That type of "lightweight cheating" drastically improves R1's performance.
+
+```
+Alright, so I just received some feedback on my latest guess in Mastermind, and apparently, there are two
+big issues with how I've been approaching this. First off, someone mentioned that "M" isn't a color, which
+confused me because I was treating it as part of my guess. Second, they pointed out that the feedback is
+unordered, meaning that an "M" in the first position doesn't necessarily mean the first peg I guessed is
+exactly correct—it could be any of the pegs.
+
+Okay, let's start by understanding what "M," "C," and "X" really mean in the context of Mastermind
+feedback. From what I recall, "M" stands for "correct color in the correct position," "C" means "correct
+color but wrong position," and "X" indicates a color that isn't in the secret code at all or is duplicated
+incorrectly.
+
+But wait, if "M" isn't a color itself, how does it factor into my guessing strategy? Oh, I see now—using
+"M" was a mistake because it's part of the feedback system, not an actual color. That means I need to
+avoid using "M" in my guesses and focus solely on the colors available.
+
+Also, the feedback being unordered is a game-changer. Previously, I assumed that the first "M"
+corresponded to the first peg I guessed being correct. But if the feedback isn't ordered, then an "M"
+could apply to any of the positions in my guess. That means I need to reinterpret how I use feedback to
+adjust my guesses.
+```
 
 This illustrates the final and possibly most important point: **Large Reasoning Models are great with a human in the loop, but not ready for full autonomy**. The current models are "super good enough" to amplify us (humans) or for us to (scalably) manage them in a semi-autonomous system (e.g., OpenAI's Operator), but we are not yet at "push a button and take a nap while my LLM is doing my job".
 
