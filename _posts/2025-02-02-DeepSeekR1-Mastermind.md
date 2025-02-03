@@ -78,7 +78,7 @@ I was curious about R1’s chain-of-thought (CoT), which it exposes (unlike othe
 ## The bad
 
 
-### R1 is not a good Mastermind player
+### R1 is not a good Mastermind player.
 
 R1 failed to win at the games we played, even rarely showcasing monotonic progress in the quality of its guesses. If I looked only at the guesses and not the reasoning traces, they would seem pretty incoherent. **Performance numbers would be bad in a serious large scale eval**.
 
@@ -108,7 +108,7 @@ It starts so well, and then decides to go with A (not a color), "assuming A is a
 The lack of consistent higher level reasoning patterns combined with these brain farts make it hard to pin down exactly what type of "reasoning" (or the absence thereof) is learned by this statistical language model.
 
 
-### R1 exhibits the classic failure modes of LLMs
+### R1 exhibits the classic failure modes of LLMs.
 
 Because, yes, it is just an LLM, albeit a very good one! Prime examples of classic mistakes are partial memory lapses (e.g., forgetting a turn, needle-in-haystack issue) or hallucinations (e.g., imaginary feedback).
 
@@ -124,7 +124,7 @@ Which brings me to the good parts, and why this experiment is another useful dat
 ## The good
 
 
-### The emergence of reasoning skills is real
+### The emergence of reasoning skills is real.
 
 As many reported, **R1 can indeed catch some logical errors via self-reflection** ("but wait" as a backtracking trigger) and **consistency / coherence of its own thought process**.
 
@@ -186,7 +186,7 @@ The accurate multi-step reasoning parts of R1's output is when the [Eliza effect
 This anthropomorphic bias is why vibes are a double-edged sword, as I wrote about recently when talking about [Eliza Bonini and the AI turtles](https://adriengaidon.com/posts/2024/12/eliza/).
 
 
-### Semantic Representation of Uncertainty
+### Semantic Representation of Uncertainty.
 
 Beyond self-reflection and consistency, another encouraging pattern in the CoT is its **semantic representation of uncertainty** ("I'm not sure", "maybe"). It clearly saved R1 a bunch of times when it was going in a wrong direction.
 
@@ -208,7 +208,7 @@ This is important, as prompts get more complex (agents anyone?) and why I like t
 Beyond good systems engineering (separation of concerns, specification, verification, and validation of pre-/post-conditions, etc), process rewards could also be a powerful set of guardrails at inference time, enabling the automated detection of this type of prompt bugs, maybe even adversarial ones that try to do prompt injection to induce faulty reasoning like logical fallacies?
 
 
-### The best kept secret of autonomy: the human in the loop
+### The best kept secret of autonomy: the human in the loop.
 
 Another benefit of reasoning traces is that it enables the end user to give high-level corrective feedback when the answer is wrong based on a misunderstanding due to ambiguity (e.g., a loose application of the rules). That type of "lightweight cheating" drastically improves R1's performance.
 
