@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Adrien Gaidon is an experienced Machine Learning researcher, engineer, manager, executive, advisor, and investor. He is a Partner at [Calibrate Ventures](https://www.calibratevc.com/), an Adjunct Professor of Computer Science at Stanford, and a technical advisor and former head of ML at [TRI](https://www.tri.global/).
+Dr. Adrien Gaidon is an experienced Machine Learning researcher, engineer, manager, executive, advisor, and investor. He is an entrepreneur in the Physical AI space, an Adjunct Professor of Computer Science at Stanford, and a former Partner at [Calibrate Ventures](https://www.calibratevc.com/) and head of ML at [TRI](https://www.tri.global/).
 
-Since 2007, Dr. Gaidon has been working on Principle-centric ML: learning algorithms that effectively combine concise prior knowledge and large-scale data. In particular, Dr. Gaidon has a deep expertise in Embodied Intelligence, including Computer Vision, Autonomous Driving, and Robotics, with more than 100 patents and 100 publications at top AI venues like CVPR and NeurIPS.
+Since 2007, Dr. Gaidon has been working on Principle-centric ML: learning algorithms that effectively combine concise prior knowledge (e.g., physics, domain expertise) and large-scale data. In particular, Dr. Gaidon has a deep expertise in Physical AI, including Computer Vision, Autonomous Driving, and Robotics, with more than 100 patents and 100 publications at top AI venues like CVPR and NeurIPS, as well as contributions to mass-produced safety critical systems.
 
 Besides scientific expertise, Dr. Gaidon has experience in building and leading world-class teams of ML researchers and engineers that work together to invent and develop new solutions to hard real-world problems like safe and automated driving.
 
@@ -19,7 +19,11 @@ More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.co
 
 ## News
 
+- August 2025: Building something new and exciting in the Physical AI space...
 - February 2025: Large Reasoning Models are hailed as the technical breakthrough that will fuel the AI Agents revolution; how do we evaluate the validity of those claims? Reasoning games might be a good benchmark, so I did a little experiment to figure it out: [Is DeepSeek-R1 Good at Mastermind?](https://adriengaidon.com/posts/2025/02/deepseekr1-mastermind/)
+
+## 2024 Updates
+
 - December 2024: following OpenAI o3's amazing results, I wrote my thoughts about emphasizing AI Safety as an *engineering discipline* to avoid the pitfalls of [ELIZA Bonini and the AI turtles](https://adriengaidon.com/posts/2024/12/eliza/).
 - December 2024: early-stage investments in some amazing deep tech startups that we made at Calibrate Ventures: check out our [end of year post](https://www.calibratevc.com/blog/2024-at-calibrate-ventures-our-year-in-review)!
 - December 2024: presenting [Streaming Detection of Queried Event Start](https://neurips.cc/virtual/2024/poster/97778) at **NeurIPS'24** with Cristobal Eyzaguirre and Stanford colleagues.
