@@ -20,6 +20,7 @@ More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.co
 ## News
 
 - August 2025: Building something new and exciting in the Physical AI space...
+- July 2025: Grateful to have invested in 7 wonderful AI and Robotics startups with the wonderful folks at Calibrate Ventures (cf. [portfolio](https://www.calibratevc.com/portfolio))
 - February 2025: Large Reasoning Models are hailed as the technical breakthrough that will fuel the AI Agents revolution; how do we evaluate the validity of those claims? Reasoning games might be a good benchmark, so I did a little experiment to figure it out: [Is DeepSeek-R1 Good at Mastermind?](https://adriengaidon.com/posts/2025/02/deepseekr1-mastermind/)
 
 ## 2024 Updates
