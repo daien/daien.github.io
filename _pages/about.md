@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Adrien Gaidon is an experienced Machine Learning researcher, engineer, manager, executive, advisor, and investor. He is an entrepreneur in the Physical AI space, an Adjunct Professor of Computer Science at Stanford, and a former Partner at [Calibrate Ventures](https://www.calibratevc.com/) and head of ML at [TRI](https://www.tri.global/).
+Dr. Adrien Gaidon is Co-Founder and Chief Strategy Officer at [Walden Robotics](https://www.waldenrobotics.com/), an experienced Machine Learning researcher, engineer, manager, executive, advisor, and investor. He is an entrepreneur in the Physical AI space, an Adjunct Professor of Computer Science at Stanford, and a former Partner at [Calibrate Ventures](https://www.calibratevc.com/) and head of ML at [TRI](https://www.tri.global/).
 
 Since 2007, Dr. Gaidon has been working on Principle-centric ML: learning algorithms that effectively combine concise prior knowledge (e.g., physics, domain expertise) and large-scale data. In particular, Dr. Gaidon has a deep expertise in Physical AI, including Computer Vision, Autonomous Driving, and Robotics, with more than 100 patents and 100 publications at top AI venues like CVPR and NeurIPS, as well as contributions to mass-produced safety critical systems.
 
@@ -19,11 +19,15 @@ More info: [CV](/files/CV_Adrien_Gaidon.pdf), [linkedin](https://www.linkedin.co
 
 ## News
 
+- July 2026: We are [out of stealth with a $300M seed round](https://www.waldenrobotics.com/news/walden-robotics-launches-from-stealth) from some of the most serious companies and investors in Physical AI! See our [awesome launch video](https://www.youtube.com/watch?v=fewvZrckA5c), this [Bloomberg article](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation), [Russ' blog](https://www.waldenrobotics.com/news/why-walden), and my personal view in [this X post](https://x.com/adnothing/status/2077340975706312745) (or [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7483107120104763392/) if you prefer). More soon!
+- January 2026: [Walden Robotics](https://www.waldenrobotics.com/) is alive! 
 - August 2025: Building something new and exciting in the Physical AI space...
 - July 2025: Grateful to have invested in 7 wonderful AI and Robotics startups with the wonderful folks at Calibrate Ventures (cf. [portfolio](https://www.calibratevc.com/portfolio))
 - February 2025: Large Reasoning Models are hailed as the technical breakthrough that will fuel the AI Agents revolution; how do we evaluate the validity of those claims? Reasoning games might be a good benchmark, so I did a little experiment to figure it out: [Is DeepSeek-R1 Good at Mastermind?](https://adriengaidon.com/posts/2025/02/deepseekr1-mastermind/)
 
-## 2024 Updates
+## Older Updates
+
+### 2024 Updates
 
 - December 2024: following OpenAI o3's amazing results, I wrote my thoughts about emphasizing AI Safety as an *engineering discipline* to avoid the pitfalls of [ELIZA Bonini and the AI turtles](https://adriengaidon.com/posts/2024/12/eliza/).
 - December 2024: early-stage investments in some amazing deep tech startups that we made at Calibrate Ventures: check out our [end of year post](https://www.calibratevc.com/blog/2024-at-calibrate-ventures-our-year-in-review)!
